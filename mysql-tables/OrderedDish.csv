@@ -1,0 +1,3206 @@
+"OrderID";"DishName";"Quantity"
+1;"Bacon Burger";2
+1;"Beer";1
+1;"Cheese Fries";2
+1;"Veggie Burger";2
+2;"Cheese Fries";1
+2;"Veggie Burger";1
+2;"Veggie Supreme";1
+3;"Cheese Fries";1
+3;"Sweet Potato Fries";3
+3;"Veggie Burger";1
+3;"White Wine";3
+4;"Classic Fries";3
+4;"Garlic Parmesan Fries";2
+4;"Lemonade";3
+4;"Veggie Supreme";3
+5;"Sweet Potato Fries";2
+5;"White Wine";2
+6;"BBQ Chicken";2
+6;"Milkshake";2
+6;"Whiskey Sour";3
+7;"Beer";3
+7;"Cheese Fries";3
+7;"Double Trouble";2
+8;"Coca Cola";1
+8;"Lemonade";2
+9;"Iced Tea";3
+9;"Veggie Supreme";1
+9;"Whiskey Sour";1
+9;"White Wine";1
+10;"BBQ Chicken";2
+10;"Classic Cheeseburger";1
+10;"Pepperoni";1
+10;"White Wine";1
+11;"Coca Cola";2
+11;"Iced Tea";3
+11;"Lemonade";1
+11;"White Wine";3
+12;"Classic Cheeseburger";2
+12;"Iced Tea";2
+12;"Margherita";3
+12;"Veggie Supreme";1
+13;"Classic Fries";2
+13;"Margherita";1
+13;"Whiskey Sour";2
+14;"Bacon Burger";3
+14;"Garlic Parmesan Fries";1
+14;"Iced Tea";3
+14;"White Wine";1
+15;"Coca Cola";2
+15;"Garlic Parmesan Fries";3
+15;"Sweet Potato Fries";2
+15;"Veggie Supreme";3
+16;"Beer";1
+16;"Pepperoni";1
+16;"White Wine";3
+17;"Cheese Fries";3
+17;"Garlic Parmesan Fries";3
+17;"Red Wine";1
+17;"Whiskey Sour";2
+17;"White Wine";2
+18;"BBQ Chicken";2
+18;"Classic Cheeseburger";3
+18;"Double Trouble";3
+18;"Iced Tea";2
+18;"Lemonade";1
+19;"Coca Cola";1
+19;"Milkshake";2
+20;"Classic Cheeseburger";1
+20;"Classic Fries";2
+20;"Coca Cola";1
+20;"Lemonade";3
+20;"White Wine";3
+21;"Iced Tea";2
+21;"Margherita";2
+21;"Veggie Supreme";3
+21;"Whiskey Sour";2
+22;"Lemonade";1
+22;"Veggie Burger";3
+24;"Cheese Fries";2
+24;"Garlic Parmesan Fries";2
+24;"Sweet Potato Fries";1
+24;"Veggie Burger";3
+24;"Whiskey Sour";1
+25;"Classic Fries";1
+25;"Garlic Parmesan Fries";2
+25;"Veggie Burger";1
+26;"Bacon Burger";1
+26;"Double Trouble";1
+26;"Iced Tea";3
+26;"Lemonade";2
+27;"Margherita";3
+27;"Red Wine";1
+27;"Veggie Burger";2
+28;"Bacon Burger";2
+28;"Classic Cheeseburger";1
+28;"Coca Cola";1
+28;"Double Trouble";3
+28;"Milkshake";3
+30;"Classic Cheeseburger";3
+30;"Double Trouble";2
+30;"Iced Tea";2
+30;"Sweet Potato Fries";3
+31;"Lemonade";3
+31;"Sweet Potato Fries";3
+31;"Veggie Supreme";1
+31;"White Wine";2
+32;"Classic Cheeseburger";2
+32;"Garlic Parmesan Fries";2
+32;"Milkshake";2
+33;"Lemonade";3
+33;"Sweet Potato Fries";2
+33;"Veggie Burger";3
+33;"Veggie Supreme";2
+33;"White Wine";1
+36;"Lemonade";2
+36;"Pepperoni";3
+37;"Milkshake";1
+37;"Pepperoni";3
+37;"Sweet Potato Fries";1
+38;"Classic Fries";3
+38;"Pepperoni";3
+38;"Veggie Supreme";1
+38;"Whiskey Sour";1
+39;"Classic Cheeseburger";1
+39;"Double Trouble";3
+39;"Whiskey Sour";1
+40;"Garlic Parmesan Fries";2
+40;"Iced Tea";2
+40;"Whiskey Sour";2
+41;"BBQ Chicken";2
+41;"Coca Cola";2
+41;"Iced Tea";2
+41;"Pepperoni";1
+43;"Cheese Fries";3
+43;"Coca Cola";2
+44;"Iced Tea";2
+44;"Milkshake";2
+44;"Veggie Burger";1
+44;"Whiskey Sour";2
+45;"Coca Cola";1
+45;"Iced Tea";2
+45;"White Wine";1
+46;"Classic Fries";3
+47;"Bacon Burger";3
+47;"Iced Tea";1
+47;"Veggie Supreme";1
+47;"Whiskey Sour";1
+49;"BBQ Chicken";2
+49;"Veggie Burger";1
+49;"Whiskey Sour";2
+50;"Margherita";2
+50;"Red Wine";3
+50;"Veggie Burger";1
+51;"Bacon Burger";2
+51;"Pepperoni";1
+51;"Sweet Potato Fries";1
+52;"Bacon Burger";2
+52;"Beer";2
+52;"Classic Cheeseburger";2
+52;"Margherita";1
+52;"Veggie Burger";2
+52;"White Wine";1
+53;"Bacon Burger";3
+53;"Cheese Fries";3
+53;"Classic Cheeseburger";2
+53;"Coca Cola";2
+53;"Double Trouble";1
+54;"Double Trouble";1
+54;"Milkshake";1
+54;"Pepperoni";1
+54;"Veggie Burger";3
+55;"Bacon Burger";3
+55;"Cheese Fries";2
+55;"Classic Fries";3
+55;"Sweet Potato Fries";3
+55;"Whiskey Sour";1
+56;"Cheese Fries";3
+56;"Classic Cheeseburger";1
+56;"Coca Cola";1
+56;"Pepperoni";3
+56;"Red Wine";2
+57;"Beer";3
+57;"Coca Cola";3
+57;"Milkshake";1
+57;"Veggie Supreme";3
+58;"Classic Fries";3
+59;"BBQ Chicken";3
+59;"Margherita";3
+59;"Veggie Burger";2
+60;"Bacon Burger";3
+60;"Milkshake";2
+60;"Sweet Potato Fries";1
+60;"Veggie Burger";2
+61;"Coca Cola";1
+61;"Double Trouble";2
+62;"Bacon Burger";2
+62;"Pepperoni";1
+62;"Sweet Potato Fries";3
+63;"Cheese Fries";2
+63;"Veggie Supreme";2
+64;"Coca Cola";1
+64;"Iced Tea";2
+64;"Sweet Potato Fries";2
+66;"Beer";1
+66;"Double Trouble";2
+66;"Iced Tea";3
+68;"Iced Tea";2
+68;"Veggie Burger";2
+69;"Classic Fries";1
+69;"Lemonade";2
+69;"White Wine";3
+70;"Cheese Fries";3
+70;"Classic Fries";1
+70;"White Wine";2
+71;"Veggie Burger";1
+72;"BBQ Chicken";3
+72;"Margherita";3
+72;"Pepperoni";2
+72;"White Wine";3
+73;"BBQ Chicken";3
+73;"Cheese Fries";2
+73;"Double Trouble";2
+73;"Milkshake";1
+74;"Beer";1
+74;"Classic Cheeseburger";3
+74;"Iced Tea";3
+76;"Coca Cola";2
+76;"Whiskey Sour";1
+77;"Margherita";3
+77;"White Wine";3
+79;"Classic Fries";1
+79;"Lemonade";3
+79;"Pepperoni";1
+79;"Sweet Potato Fries";1
+79;"Veggie Supreme";1
+80;"Cheese Fries";1
+80;"Margherita";3
+80;"White Wine";2
+81;"Garlic Parmesan Fries";3
+81;"Margherita";3
+81;"Pepperoni";3
+81;"Veggie Burger";2
+81;"Veggie Supreme";1
+82;"Cheese Fries";2
+82;"Margherita";1
+82;"Veggie Burger";1
+82;"White Wine";3
+83;"Bacon Burger";3
+83;"Coca Cola";2
+83;"Double Trouble";1
+83;"Sweet Potato Fries";3
+84;"Lemonade";2
+84;"Sweet Potato Fries";1
+84;"Veggie Burger";3
+84;"White Wine";3
+85;"Classic Cheeseburger";3
+85;"Lemonade";2
+85;"Milkshake";3
+86;"Beer";3
+86;"Red Wine";2
+86;"White Wine";2
+87;"Bacon Burger";1
+87;"Coca Cola";2
+87;"Double Trouble";3
+87;"Milkshake";3
+88;"Classic Fries";3
+88;"Lemonade";2
+88;"Red Wine";1
+88;"Veggie Burger";3
+89;"Bacon Burger";1
+89;"Classic Cheeseburger";2
+90;"Margherita";2
+90;"Red Wine";3
+90;"Sweet Potato Fries";2
+90;"Veggie Burger";2
+91;"Classic Fries";1
+91;"Garlic Parmesan Fries";2
+91;"Sweet Potato Fries";2
+92;"Bacon Burger";2
+92;"Classic Cheeseburger";1
+92;"Pepperoni";1
+92;"Red Wine";3
+93;"Iced Tea";1
+93;"Pepperoni";3
+93;"Red Wine";3
+93;"Veggie Burger";3
+94;"Bacon Burger";2
+94;"Coca Cola";1
+94;"Lemonade";3
+94;"Red Wine";1
+94;"Whiskey Sour";2
+95;"BBQ Chicken";2
+95;"Coca Cola";1
+95;"Milkshake";1
+95;"Red Wine";2
+95;"Veggie Burger";3
+96;"BBQ Chicken";2
+96;"Classic Cheeseburger";2
+96;"Garlic Parmesan Fries";2
+96;"Veggie Burger";1
+97;"BBQ Chicken";1
+97;"Beer";3
+97;"Cheese Fries";1
+97;"Lemonade";2
+97;"Veggie Burger";1
+97;"Whiskey Sour";3
+98;"Beer";2
+98;"Iced Tea";1
+98;"Milkshake";1
+98;"Pepperoni";3
+100;"BBQ Chicken";2
+100;"Classic Fries";2
+100;"Garlic Parmesan Fries";3
+100;"Veggie Burger";2
+100;"Whiskey Sour";1
+100;"White Wine";2
+101;"Bacon Burger";2
+101;"Coca Cola";3
+101;"Garlic Parmesan Fries";2
+101;"Pepperoni";2
+102;"Beer";1
+102;"Classic Fries";1
+102;"Veggie Supreme";3
+103;"Classic Cheeseburger";2
+103;"Coca Cola";2
+103;"Double Trouble";1
+103;"Lemonade";1
+103;"Whiskey Sour";3
+104;"Red Wine";2
+105;"Lemonade";2
+105;"Sweet Potato Fries";1
+105;"Veggie Burger";3
+106;"BBQ Chicken";1
+106;"Coca Cola";3
+106;"Pepperoni";1
+107;"Bacon Burger";2
+107;"Iced Tea";1
+107;"Pepperoni";2
+107;"Veggie Burger";1
+109;"Beer";3
+109;"Coca Cola";2
+109;"White Wine";1
+110;"Double Trouble";2
+110;"Margherita";3
+110;"Milkshake";2
+110;"Pepperoni";3
+110;"White Wine";1
+111;"Garlic Parmesan Fries";3
+111;"Milkshake";3
+111;"Pepperoni";1
+111;"Whiskey Sour";3
+112;"Bacon Burger";2
+112;"Iced Tea";2
+112;"Red Wine";2
+113;"Margherita";2
+113;"Red Wine";2
+114;"Cheese Fries";3
+114;"Pepperoni";1
+114;"Veggie Burger";1
+115;"Bacon Burger";2
+115;"Beer";3
+115;"Double Trouble";3
+116;"Cheese Fries";3
+116;"Classic Cheeseburger";1
+116;"Garlic Parmesan Fries";3
+116;"Margherita";2
+116;"Whiskey Sour";2
+117;"Beer";3
+117;"Classic Cheeseburger";3
+117;"White Wine";1
+118;"Beer";1
+118;"Cheese Fries";2
+118;"Classic Cheeseburger";1
+118;"Coca Cola";1
+118;"Double Trouble";3
+118;"Whiskey Sour";2
+119;"Coca Cola";2
+119;"Iced Tea";2
+119;"White Wine";2
+120;"Classic Cheeseburger";2
+120;"Classic Fries";3
+120;"Pepperoni";3
+120;"Red Wine";1
+120;"Veggie Burger";1
+121;"Beer";3
+121;"Iced Tea";2
+121;"Pepperoni";2
+121;"Sweet Potato Fries";2
+121;"Veggie Supreme";2
+121;"White Wine";2
+122;"Beer";2
+122;"Iced Tea";2
+122;"Red Wine";1
+122;"Veggie Supreme";2
+123;"BBQ Chicken";3
+123;"Iced Tea";3
+123;"Milkshake";3
+123;"Red Wine";1
+123;"Sweet Potato Fries";3
+124;"Beer";2
+124;"Milkshake";3
+125;"Bacon Burger";2
+125;"Classic Cheeseburger";1
+125;"Lemonade";3
+125;"Red Wine";2
+125;"Veggie Burger";1
+126;"BBQ Chicken";3
+126;"Cheese Fries";2
+126;"Classic Cheeseburger";1
+126;"Coca Cola";3
+126;"Milkshake";2
+127;"Bacon Burger";3
+127;"Coca Cola";2
+128;"Cheese Fries";2
+128;"Coca Cola";1
+128;"Milkshake";3
+129;"Beer";1
+129;"Garlic Parmesan Fries";3
+129;"Pepperoni";1
+129;"Red Wine";2
+130;"BBQ Chicken";1
+130;"Cheese Fries";1
+131;"Beer";1
+131;"Classic Cheeseburger";1
+131;"Classic Fries";2
+131;"Pepperoni";3
+131;"Whiskey Sour";2
+132;"Bacon Burger";3
+132;"Cheese Fries";2
+132;"Classic Cheeseburger";2
+132;"Veggie Supreme";3
+132;"Whiskey Sour";1
+133;"Bacon Burger";3
+133;"Red Wine";2
+133;"Sweet Potato Fries";1
+133;"White Wine";1
+134;"Classic Cheeseburger";3
+134;"Garlic Parmesan Fries";3
+134;"Margherita";1
+135;"BBQ Chicken";3
+135;"Classic Cheeseburger";2
+135;"Margherita";3
+135;"Sweet Potato Fries";3
+136;"Lemonade";1
+136;"Milkshake";2
+136;"Pepperoni";3
+136;"White Wine";2
+137;"Classic Cheeseburger";3
+137;"Lemonade";2
+137;"Milkshake";2
+138;"BBQ Chicken";2
+138;"Classic Cheeseburger";1
+138;"Margherita";3
+138;"Red Wine";2
+139;"Beer";2
+139;"Coca Cola";2
+139;"Milkshake";2
+139;"Pepperoni";2
+139;"Red Wine";3
+140;"Garlic Parmesan Fries";1
+140;"Veggie Burger";2
+141;"Classic Fries";2
+141;"Garlic Parmesan Fries";3
+141;"Lemonade";2
+141;"Sweet Potato Fries";2
+142;"Bacon Burger";2
+142;"Beer";2
+142;"Lemonade";1
+142;"Margherita";2
+143;"BBQ Chicken";1
+143;"Beer";3
+143;"Garlic Parmesan Fries";2
+143;"Iced Tea";1
+144;"Bacon Burger";3
+144;"Classic Fries";2
+144;"Sweet Potato Fries";1
+145;"Beer";1
+145;"Double Trouble";2
+145;"Garlic Parmesan Fries";3
+145;"Sweet Potato Fries";3
+146;"Classic Cheeseburger";1
+146;"Coca Cola";2
+146;"Whiskey Sour";2
+147;"Red Wine";2
+148;"Classic Cheeseburger";3
+148;"Milkshake";3
+148;"Sweet Potato Fries";2
+149;"Bacon Burger";3
+149;"BBQ Chicken";2
+149;"Beer";2
+149;"Classic Fries";3
+149;"Double Trouble";1
+149;"Margherita";2
+150;"Double Trouble";3
+150;"Garlic Parmesan Fries";1
+150;"Milkshake";1
+151;"BBQ Chicken";1
+151;"Garlic Parmesan Fries";3
+152;"Lemonade";2
+152;"Milkshake";3
+152;"Pepperoni";1
+153;"BBQ Chicken";2
+153;"Classic Fries";1
+153;"Garlic Parmesan Fries";3
+153;"Whiskey Sour";1
+153;"White Wine";2
+154;"Lemonade";2
+154;"Sweet Potato Fries";2
+154;"Veggie Supreme";2
+154;"White Wine";2
+155;"Veggie Supreme";1
+155;"White Wine";1
+156;"Bacon Burger";2
+156;"Veggie Burger";1
+156;"White Wine";1
+157;"Sweet Potato Fries";2
+158;"Garlic Parmesan Fries";3
+158;"Iced Tea";3
+158;"Red Wine";1
+158;"Veggie Supreme";3
+160;"Bacon Burger";1
+160;"Cheese Fries";1
+160;"Double Trouble";1
+161;"Cheese Fries";1
+161;"Coca Cola";3
+161;"Sweet Potato Fries";1
+161;"Veggie Supreme";3
+162;"Coca Cola";1
+162;"Sweet Potato Fries";3
+163;"Cheese Fries";2
+163;"Lemonade";1
+164;"Bacon Burger";3
+164;"Red Wine";2
+164;"Veggie Supreme";2
+164;"White Wine";2
+165;"Sweet Potato Fries";3
+165;"Whiskey Sour";1
+166;"BBQ Chicken";1
+166;"Veggie Burger";2
+166;"Whiskey Sour";1
+166;"White Wine";1
+167;"Classic Fries";1
+167;"Lemonade";2
+167;"Milkshake";3
+167;"Pepperoni";3
+167;"Veggie Burger";3
+168;"Bacon Burger";1
+168;"Double Trouble";1
+168;"Garlic Parmesan Fries";1
+168;"Milkshake";3
+168;"Whiskey Sour";1
+168;"White Wine";3
+169;"BBQ Chicken";2
+169;"Beer";2
+169;"Double Trouble";1
+169;"Milkshake";1
+169;"Red Wine";3
+169;"White Wine";2
+170;"Bacon Burger";2
+170;"Lemonade";3
+170;"Veggie Supreme";3
+170;"White Wine";3
+171;"Classic Fries";1
+171;"Garlic Parmesan Fries";3
+171;"Iced Tea";1
+171;"Margherita";3
+172;"Double Trouble";1
+173;"Bacon Burger";1
+173;"Double Trouble";1
+173;"Pepperoni";1
+173;"Veggie Supreme";3
+174;"BBQ Chicken";1
+174;"Iced Tea";3
+175;"Beer";1
+176;"Bacon Burger";2
+176;"Iced Tea";1
+176;"Veggie Supreme";2
+177;"Iced Tea";2
+177;"Sweet Potato Fries";3
+178;"Double Trouble";3
+178;"White Wine";1
+179;"Coca Cola";2
+179;"Double Trouble";2
+179;"Pepperoni";1
+179;"Veggie Supreme";3
+179;"White Wine";2
+180;"Bacon Burger";1
+180;"Double Trouble";1
+180;"Lemonade";3
+180;"Milkshake";3
+180;"Pepperoni";3
+181;"Cheese Fries";2
+181;"Lemonade";3
+182;"Bacon Burger";3
+182;"Coca Cola";2
+182;"Lemonade";2
+183;"Bacon Burger";3
+183;"Iced Tea";1
+183;"Pepperoni";3
+184;"Classic Fries";1
+184;"Coca Cola";3
+184;"Lemonade";3
+184;"Pepperoni";3
+184;"Veggie Supreme";3
+185;"BBQ Chicken";2
+185;"Classic Cheeseburger";3
+185;"Iced Tea";1
+185;"Veggie Supreme";3
+185;"Whiskey Sour";3
+187;"Bacon Burger";3
+187;"Milkshake";3
+188;"Classic Fries";2
+188;"Iced Tea";3
+188;"Pepperoni";3
+189;"Beer";1
+189;"Coca Cola";3
+189;"Lemonade";2
+189;"Margherita";1
+190;"Whiskey Sour";1
+191;"Classic Fries";3
+191;"White Wine";1
+194;"Beer";2
+197;"Double Trouble";3
+197;"Margherita";3
+198;"Bacon Burger";2
+198;"Iced Tea";3
+198;"Pepperoni";1
+198;"Red Wine";3
+198;"White Wine";2
+199;"Cheese Fries";3
+200;"BBQ Chicken";2
+200;"Coca Cola";3
+200;"Double Trouble";3
+200;"Whiskey Sour";3
+202;"Cheese Fries";1
+202;"Margherita";1
+202;"Red Wine";1
+202;"Veggie Burger";3
+202;"Whiskey Sour";2
+203;"BBQ Chicken";3
+203;"Cheese Fries";2
+203;"Veggie Burger";3
+204;"BBQ Chicken";1
+204;"Cheese Fries";3
+205;"Coca Cola";1
+205;"Iced Tea";1
+205;"Milkshake";2
+206;"Classic Fries";1
+206;"Margherita";2
+206;"Red Wine";2
+206;"Veggie Burger";3
+207;"BBQ Chicken";2
+207;"Classic Cheeseburger";1
+207;"Double Trouble";1
+207;"Lemonade";3
+208;"Beer";1
+208;"Iced Tea";1
+208;"Margherita";2
+209;"Bacon Burger";2
+209;"Beer";1
+209;"Lemonade";2
+210;"Classic Fries";1
+210;"Iced Tea";1
+210;"Sweet Potato Fries";1
+210;"White Wine";3
+211;"Cheese Fries";2
+211;"Coca Cola";2
+211;"Iced Tea";3
+211;"Milkshake";3
+211;"Veggie Supreme";2
+212;"BBQ Chicken";2
+212;"Classic Fries";2
+212;"Double Trouble";3
+212;"Red Wine";3
+214;"Beer";3
+214;"Cheese Fries";3
+214;"Milkshake";2
+215;"Margherita";1
+215;"Milkshake";1
+215;"Red Wine";1
+216;"BBQ Chicken";1
+216;"Coca Cola";2
+216;"Margherita";1
+216;"Red Wine";1
+217;"Classic Fries";2
+217;"Double Trouble";3
+217;"Pepperoni";3
+218;"Bacon Burger";2
+218;"Veggie Burger";3
+219;"Sweet Potato Fries";1
+220;"BBQ Chicken";2
+220;"Coca Cola";2
+220;"Lemonade";2
+220;"Veggie Supreme";3
+222;"Bacon Burger";2
+222;"Milkshake";1
+222;"Sweet Potato Fries";3
+222;"Veggie Burger";2
+222;"White Wine";3
+223;"Bacon Burger";1
+223;"Beer";2
+223;"Pepperoni";3
+223;"Veggie Supreme";3
+225;"Bacon Burger";3
+225;"Classic Fries";2
+225;"Sweet Potato Fries";1
+225;"Whiskey Sour";3
+226;"Classic Cheeseburger";1
+226;"Coca Cola";3
+226;"Garlic Parmesan Fries";2
+226;"Pepperoni";2
+226;"White Wine";3
+227;"BBQ Chicken";3
+227;"Iced Tea";1
+227;"Sweet Potato Fries";1
+227;"Whiskey Sour";2
+227;"White Wine";2
+228;"BBQ Chicken";2
+228;"Coca Cola";1
+228;"Iced Tea";1
+228;"Margherita";1
+228;"Whiskey Sour";3
+229;"Classic Fries";1
+229;"Veggie Burger";2
+229;"Veggie Supreme";3
+229;"Whiskey Sour";3
+230;"Classic Cheeseburger";3
+230;"Lemonade";1
+230;"Milkshake";3
+231;"Bacon Burger";3
+231;"BBQ Chicken";3
+231;"Classic Cheeseburger";3
+231;"Iced Tea";2
+231;"Pepperoni";2
+232;"Sweet Potato Fries";3
+232;"Whiskey Sour";3
+232;"White Wine";1
+233;"Margherita";2
+233;"Pepperoni";2
+234;"Bacon Burger";3
+234;"Double Trouble";3
+234;"Sweet Potato Fries";2
+234;"Whiskey Sour";2
+235;"Garlic Parmesan Fries";2
+235;"Red Wine";3
+237;"Coca Cola";2
+237;"Iced Tea";3
+237;"Veggie Supreme";2
+238;"Lemonade";3
+239;"BBQ Chicken";1
+239;"Cheese Fries";2
+239;"Classic Fries";2
+239;"Lemonade";3
+240;"Cheese Fries";3
+240;"Coca Cola";3
+240;"Garlic Parmesan Fries";1
+240;"Veggie Supreme";1
+241;"Classic Cheeseburger";2
+241;"Pepperoni";3
+241;"Sweet Potato Fries";3
+241;"Veggie Burger";1
+241;"Veggie Supreme";1
+241;"White Wine";1
+242;"Cheese Fries";2
+242;"Classic Cheeseburger";1
+242;"Milkshake";2
+242;"Veggie Burger";2
+243;"Classic Cheeseburger";3
+243;"Red Wine";3
+244;"Bacon Burger";3
+244;"Milkshake";2
+244;"Veggie Supreme";2
+245;"Bacon Burger";1
+245;"Beer";3
+245;"Coca Cola";2
+246;"Lemonade";3
+247;"Red Wine";3
+247;"Sweet Potato Fries";1
+248;"Iced Tea";1
+248;"Sweet Potato Fries";3
+248;"Whiskey Sour";2
+249;"BBQ Chicken";2
+249;"Beer";1
+249;"Cheese Fries";3
+249;"Milkshake";2
+249;"Pepperoni";1
+250;"Beer";1
+250;"Coca Cola";2
+250;"Margherita";1
+250;"Sweet Potato Fries";1
+250;"Veggie Supreme";2
+251;"Classic Cheeseburger";2
+251;"Classic Fries";2
+251;"Garlic Parmesan Fries";2
+251;"Lemonade";1
+251;"Milkshake";1
+251;"Veggie Burger";1
+252;"Iced Tea";2
+252;"Lemonade";3
+252;"Veggie Burger";3
+252;"Whiskey Sour";1
+253;"BBQ Chicken";1
+253;"Double Trouble";1
+253;"Margherita";2
+253;"Sweet Potato Fries";1
+254;"Beer";2
+254;"Coca Cola";3
+254;"Margherita";2
+254;"Red Wine";1
+254;"Sweet Potato Fries";2
+254;"Veggie Supreme";1
+255;"Bacon Burger";3
+255;"Double Trouble";3
+255;"Red Wine";3
+255;"White Wine";1
+256;"Margherita";3
+256;"Pepperoni";1
+256;"Red Wine";1
+257;"BBQ Chicken";1
+257;"Iced Tea";3
+257;"Milkshake";3
+258;"Classic Fries";2
+258;"Coca Cola";2
+258;"Pepperoni";2
+258;"White Wine";3
+259;"Double Trouble";1
+259;"Margherita";2
+259;"Sweet Potato Fries";1
+260;"BBQ Chicken";2
+260;"Iced Tea";3
+261;"Classic Fries";1
+261;"Garlic Parmesan Fries";2
+261;"Milkshake";2
+262;"Double Trouble";1
+262;"Veggie Supreme";3
+263;"Coca Cola";3
+263;"Milkshake";2
+263;"Veggie Supreme";2
+264;"Beer";2
+264;"Lemonade";2
+264;"Milkshake";3
+265;"Double Trouble";1
+265;"Margherita";1
+265;"Veggie Burger";3
+266;"Cheese Fries";3
+266;"Lemonade";2
+266;"Veggie Supreme";2
+267;"Double Trouble";3
+267;"Margherita";3
+268;"Double Trouble";2
+268;"Pepperoni";2
+268;"Red Wine";1
+268;"Sweet Potato Fries";2
+269;"Beer";2
+269;"Coca Cola";3
+269;"Iced Tea";2
+269;"Milkshake";1
+270;"Bacon Burger";3
+270;"Garlic Parmesan Fries";3
+270;"Margherita";2
+270;"Milkshake";2
+271;"Coca Cola";3
+271;"Red Wine";3
+271;"White Wine";2
+272;"Red Wine";1
+273;"Bacon Burger";1
+273;"BBQ Chicken";2
+273;"Garlic Parmesan Fries";3
+273;"Milkshake";1
+273;"Veggie Burger";1
+274;"Sweet Potato Fries";3
+274;"White Wine";1
+275;"BBQ Chicken";1
+275;"Milkshake";3
+275;"Red Wine";1
+275;"Veggie Burger";3
+276;"Double Trouble";1
+276;"Lemonade";2
+276;"Sweet Potato Fries";1
+276;"Whiskey Sour";1
+276;"White Wine";1
+277;"Beer";1
+277;"Milkshake";1
+277;"Sweet Potato Fries";1
+277;"Veggie Burger";1
+277;"Whiskey Sour";3
+278;"Classic Cheeseburger";2
+278;"Sweet Potato Fries";1
+278;"Veggie Burger";2
+280;"Veggie Supreme";3
+281;"Bacon Burger";3
+281;"Beer";3
+281;"Coca Cola";1
+281;"Iced Tea";2
+281;"Pepperoni";2
+282;"Bacon Burger";3
+282;"Cheese Fries";3
+282;"Iced Tea";2
+282;"Milkshake";1
+283;"Cheese Fries";1
+283;"Garlic Parmesan Fries";2
+284;"Beer";2
+284;"Garlic Parmesan Fries";3
+284;"Sweet Potato Fries";1
+285;"Red Wine";2
+285;"Whiskey Sour";3
+287;"Classic Fries";3
+287;"Iced Tea";1
+287;"Whiskey Sour";1
+288;"BBQ Chicken";3
+288;"Classic Fries";2
+288;"Margherita";2
+288;"Veggie Burger";2
+288;"Veggie Supreme";2
+289;"Classic Fries";1
+289;"Red Wine";3
+290;"BBQ Chicken";1
+290;"Coca Cola";3
+290;"Lemonade";3
+290;"Margherita";2
+291;"Cheese Fries";3
+291;"Margherita";3
+291;"Milkshake";1
+291;"Sweet Potato Fries";3
+291;"Whiskey Sour";1
+292;"Classic Fries";3
+292;"Double Trouble";2
+292;"White Wine";3
+293;"Lemonade";2
+293;"Milkshake";2
+293;"Whiskey Sour";3
+294;"Pepperoni";3
+294;"Whiskey Sour";3
+295;"Bacon Burger";2
+295;"Sweet Potato Fries";2
+295;"Veggie Supreme";2
+296;"Bacon Burger";3
+296;"Garlic Parmesan Fries";1
+296;"Lemonade";3
+296;"Veggie Supreme";2
+297;"Pepperoni";3
+297;"White Wine";2
+298;"Bacon Burger";2
+298;"Coca Cola";3
+298;"Veggie Burger";2
+298;"White Wine";3
+299;"Iced Tea";2
+299;"Lemonade";1
+299;"Pepperoni";3
+299;"Veggie Supreme";1
+299;"Whiskey Sour";1
+300;"Garlic Parmesan Fries";2
+300;"Lemonade";1
+300;"Milkshake";1
+300;"Veggie Burger";1
+301;"Bacon Burger";1
+301;"Veggie Burger";3
+301;"White Wine";3
+302;"Cheese Fries";2
+302;"Lemonade";1
+302;"Red Wine";3
+302;"Whiskey Sour";3
+303;"Iced Tea";2
+303;"Lemonade";2
+303;"Pepperoni";1
+304;"BBQ Chicken";3
+304;"Cheese Fries";2
+304;"Classic Fries";2
+304;"Iced Tea";3
+304;"Margherita";2
+305;"Garlic Parmesan Fries";3
+305;"Milkshake";2
+305;"White Wine";3
+306;"Bacon Burger";3
+306;"Milkshake";1
+306;"Sweet Potato Fries";3
+307;"BBQ Chicken";1
+307;"Beer";2
+307;"Lemonade";1
+307;"Red Wine";1
+307;"Veggie Burger";2
+309;"Iced Tea";2
+309;"Red Wine";3
+309;"Sweet Potato Fries";3
+309;"Whiskey Sour";2
+310;"Cheese Fries";2
+310;"Garlic Parmesan Fries";2
+310;"Sweet Potato Fries";3
+310;"Veggie Supreme";1
+311;"Bacon Burger";3
+311;"Double Trouble";1
+311;"Red Wine";2
+311;"White Wine";1
+312;"Lemonade";1
+312;"Whiskey Sour";1
+313;"Bacon Burger";3
+313;"BBQ Chicken";2
+313;"Beer";2
+313;"Double Trouble";2
+313;"Iced Tea";3
+313;"Veggie Supreme";1
+314;"BBQ Chicken";1
+314;"Coca Cola";2
+314;"Iced Tea";3
+315;"Classic Cheeseburger";2
+315;"Classic Fries";2
+315;"Milkshake";1
+316;"Coca Cola";3
+316;"Double Trouble";1
+316;"White Wine";3
+317;"Double Trouble";2
+317;"Veggie Supreme";2
+318;"Cheese Fries";3
+318;"Coca Cola";2
+318;"Garlic Parmesan Fries";1
+318;"Sweet Potato Fries";1
+319;"Beer";2
+319;"Iced Tea";2
+320;"Double Trouble";1
+320;"Pepperoni";2
+322;"Double Trouble";1
+322;"Red Wine";3
+322;"Veggie Burger";1
+323;"Cheese Fries";3
+323;"Pepperoni";2
+323;"White Wine";2
+324;"Cheese Fries";1
+324;"Classic Fries";1
+324;"Double Trouble";2
+325;"Pepperoni";3
+325;"Red Wine";3
+326;"Bacon Burger";1
+326;"BBQ Chicken";3
+326;"Double Trouble";3
+327;"Classic Cheeseburger";2
+327;"Garlic Parmesan Fries";1
+327;"Iced Tea";1
+327;"Red Wine";1
+327;"Sweet Potato Fries";2
+327;"Whiskey Sour";2
+328;"Bacon Burger";3
+328;"Classic Fries";3
+328;"Pepperoni";3
+328;"Veggie Burger";1
+328;"Whiskey Sour";1
+329;"Beer";1
+329;"Coca Cola";1
+329;"Iced Tea";1
+329;"Sweet Potato Fries";2
+330;"Double Trouble";3
+330;"Garlic Parmesan Fries";1
+330;"Lemonade";1
+331;"Coca Cola";1
+331;"Pepperoni";3
+331;"White Wine";3
+332;"Bacon Burger";2
+332;"Iced Tea";2
+332;"Milkshake";1
+332;"Red Wine";1
+333;"BBQ Chicken";1
+333;"Milkshake";3
+333;"White Wine";3
+334;"Classic Fries";3
+334;"Red Wine";1
+334;"Veggie Burger";1
+335;"Beer";2
+335;"Garlic Parmesan Fries";2
+335;"Margherita";2
+335;"Milkshake";3
+336;"Cheese Fries";2
+336;"Garlic Parmesan Fries";1
+336;"Iced Tea";1
+336;"Milkshake";2
+336;"Red Wine";1
+337;"Bacon Burger";1
+337;"Pepperoni";2
+337;"Veggie Supreme";2
+338;"BBQ Chicken";3
+338;"Margherita";1
+338;"Red Wine";2
+339;"Classic Cheeseburger";1
+339;"Lemonade";2
+339;"Milkshake";2
+339;"Veggie Burger";2
+339;"Whiskey Sour";1
+339;"White Wine";3
+341;"BBQ Chicken";1
+341;"Milkshake";3
+341;"Sweet Potato Fries";1
+342;"Bacon Burger";3
+342;"Cheese Fries";2
+342;"Iced Tea";3
+342;"White Wine";3
+343;"Cheese Fries";2
+343;"Iced Tea";1
+343;"Margherita";1
+344;"Cheese Fries";3
+344;"Lemonade";2
+345;"Bacon Burger";3
+345;"Beer";2
+345;"Pepperoni";2
+345;"Whiskey Sour";2
+345;"White Wine";3
+346;"Bacon Burger";1
+346;"BBQ Chicken";1
+346;"Iced Tea";3
+346;"Veggie Supreme";2
+347;"Coca Cola";2
+347;"Lemonade";1
+349;"Beer";3
+349;"Cheese Fries";1
+349;"Milkshake";2
+350;"BBQ Chicken";2
+350;"Lemonade";2
+350;"Margherita";3
+350;"Milkshake";3
+351;"Bacon Burger";1
+351;"BBQ Chicken";2
+351;"Classic Fries";3
+351;"Red Wine";1
+351;"Sweet Potato Fries";2
+351;"White Wine";1
+352;"Bacon Burger";3
+352;"BBQ Chicken";3
+352;"Classic Cheeseburger";2
+352;"Pepperoni";3
+352;"White Wine";1
+353;"Beer";1
+353;"Coca Cola";1
+353;"Garlic Parmesan Fries";3
+354;"Beer";1
+354;"Cheese Fries";3
+354;"Garlic Parmesan Fries";3
+354;"Lemonade";3
+354;"Pepperoni";3
+355;"Cheese Fries";1
+355;"Lemonade";2
+355;"Pepperoni";2
+356;"Beer";3
+356;"Garlic Parmesan Fries";2
+356;"Lemonade";2
+356;"Veggie Burger";1
+357;"BBQ Chicken";3
+357;"Cheese Fries";1
+357;"Coca Cola";2
+357;"Milkshake";1
+357;"Sweet Potato Fries";3
+358;"Coca Cola";2
+358;"Double Trouble";1
+358;"Veggie Supreme";3
+359;"Lemonade";1
+359;"Red Wine";3
+359;"Sweet Potato Fries";3
+359;"Veggie Burger";1
+359;"Veggie Supreme";2
+360;"BBQ Chicken";1
+360;"Lemonade";1
+360;"Whiskey Sour";1
+361;"Classic Fries";1
+361;"Veggie Burger";1
+362;"Iced Tea";3
+362;"Red Wine";3
+362;"Veggie Supreme";1
+363;"Bacon Burger";3
+363;"Classic Fries";1
+363;"Double Trouble";1
+363;"Milkshake";2
+363;"Whiskey Sour";1
+364;"Iced Tea";1
+364;"Veggie Supreme";3
+364;"White Wine";3
+365;"Beer";1
+365;"Classic Fries";2
+365;"Iced Tea";1
+365;"Red Wine";1
+366;"Garlic Parmesan Fries";2
+366;"Pepperoni";1
+366;"Sweet Potato Fries";2
+366;"Veggie Burger";2
+367;"Bacon Burger";3
+367;"Classic Cheeseburger";2
+367;"Lemonade";3
+367;"Pepperoni";2
+367;"Veggie Burger";3
+368;"Bacon Burger";1
+368;"Garlic Parmesan Fries";2
+368;"Margherita";2
+368;"Red Wine";2
+368;"Sweet Potato Fries";2
+369;"Classic Fries";3
+369;"Double Trouble";2
+369;"Garlic Parmesan Fries";3
+369;"Sweet Potato Fries";2
+370;"Double Trouble";3
+370;"Garlic Parmesan Fries";2
+370;"Pepperoni";2
+370;"Sweet Potato Fries";3
+371;"Red Wine";3
+371;"Sweet Potato Fries";3
+371;"Veggie Burger";1
+372;"BBQ Chicken";2
+372;"Lemonade";1
+373;"Bacon Burger";1
+373;"BBQ Chicken";1
+373;"Margherita";2
+374;"Beer";3
+374;"Cheese Fries";3
+374;"Classic Fries";2
+374;"Iced Tea";2
+375;"Margherita";2
+375;"Pepperoni";1
+375;"Red Wine";3
+376;"BBQ Chicken";1
+376;"Lemonade";1
+377;"Classic Cheeseburger";2
+377;"Double Trouble";3
+377;"Pepperoni";3
+378;"Cheese Fries";1
+378;"Sweet Potato Fries";2
+378;"Whiskey Sour";3
+380;"Cheese Fries";2
+380;"Classic Fries";1
+380;"Lemonade";1
+380;"Sweet Potato Fries";1
+381;"Double Trouble";3
+381;"Garlic Parmesan Fries";1
+381;"Lemonade";1
+381;"Pepperoni";3
+381;"Red Wine";3
+381;"Sweet Potato Fries";3
+382;"Classic Fries";3
+382;"Garlic Parmesan Fries";3
+382;"Sweet Potato Fries";1
+382;"Veggie Burger";2
+383;"Classic Cheeseburger";3
+383;"Garlic Parmesan Fries";2
+383;"Red Wine";2
+383;"Veggie Burger";1
+385;"Classic Fries";3
+385;"Lemonade";1
+385;"Margherita";1
+385;"Milkshake";3
+386;"Beer";1
+386;"Lemonade";1
+386;"Pepperoni";1
+386;"White Wine";2
+387;"Bacon Burger";2
+387;"Classic Cheeseburger";1
+387;"Red Wine";1
+387;"White Wine";3
+388;"Garlic Parmesan Fries";1
+388;"Iced Tea";1
+388;"Lemonade";3
+388;"Veggie Burger";2
+389;"Iced Tea";3
+389;"Red Wine";2
+390;"Cheese Fries";1
+390;"Double Trouble";2
+390;"Lemonade";2
+390;"Red Wine";1
+390;"White Wine";3
+391;"Bacon Burger";2
+391;"BBQ Chicken";1
+391;"Milkshake";1
+392;"Classic Fries";1
+392;"Milkshake";2
+393;"BBQ Chicken";1
+393;"Cheese Fries";2
+393;"Double Trouble";3
+393;"Garlic Parmesan Fries";3
+394;"Bacon Burger";3
+394;"Garlic Parmesan Fries";2
+394;"Iced Tea";2
+394;"Veggie Burger";1
+395;"Classic Cheeseburger";1
+395;"Classic Fries";2
+395;"Margherita";3
+395;"Veggie Supreme";3
+396;"Bacon Burger";3
+396;"Coca Cola";2
+396;"White Wine";2
+397;"BBQ Chicken";1
+397;"Double Trouble";3
+397;"Red Wine";2
+397;"Sweet Potato Fries";1
+397;"Veggie Supreme";3
+398;"Iced Tea";2
+398;"Sweet Potato Fries";2
+398;"Veggie Supreme";1
+400;"BBQ Chicken";3
+400;"Beer";3
+400;"Sweet Potato Fries";3
+400;"White Wine";3
+402;"Cheese Fries";1
+402;"Coca Cola";1
+403;"BBQ Chicken";3
+403;"Cheese Fries";2
+403;"Iced Tea";1
+403;"Red Wine";2
+403;"Sweet Potato Fries";2
+405;"Classic Fries";3
+405;"Iced Tea";3
+405;"Margherita";1
+405;"Pepperoni";2
+406;"Double Trouble";3
+406;"Veggie Burger";3
+407;"Classic Fries";1
+407;"Garlic Parmesan Fries";3
+407;"Margherita";3
+407;"Pepperoni";1
+407;"Veggie Burger";2
+408;"Coca Cola";3
+408;"Double Trouble";3
+408;"Milkshake";1
+409;"Veggie Burger";2
+410;"Bacon Burger";1
+410;"Margherita";2
+411;"Iced Tea";3
+411;"Veggie Supreme";3
+412;"Red Wine";1
+412;"Veggie Burger";1
+412;"Veggie Supreme";3
+413;"Veggie Burger";1
+413;"White Wine";1
+414;"Beer";2
+414;"Milkshake";1
+414;"Veggie Supreme";1
+415;"Red Wine";2
+415;"White Wine";3
+416;"Classic Fries";3
+416;"Garlic Parmesan Fries";2
+417;"BBQ Chicken";3
+417;"Cheese Fries";1
+417;"Double Trouble";3
+417;"Whiskey Sour";2
+418;"Cheese Fries";3
+418;"Classic Fries";3
+418;"Sweet Potato Fries";3
+418;"Whiskey Sour";2
+419;"Beer";3
+419;"Classic Fries";2
+420;"Bacon Burger";2
+420;"Garlic Parmesan Fries";1
+421;"Iced Tea";1
+421;"Milkshake";2
+421;"Veggie Supreme";1
+423;"Bacon Burger";2
+423;"Cheese Fries";1
+423;"White Wine";1
+424;"Red Wine";1
+424;"Sweet Potato Fries";3
+424;"White Wine";1
+426;"Classic Cheeseburger";1
+426;"Veggie Burger";2
+426;"Whiskey Sour";1
+427;"Beer";1
+428;"White Wine";1
+429;"BBQ Chicken";1
+429;"Margherita";2
+429;"White Wine";2
+430;"Iced Tea";2
+430;"Lemonade";2
+430;"Veggie Burger";3
+430;"Veggie Supreme";1
+431;"Classic Fries";1
+431;"Coca Cola";3
+431;"Red Wine";3
+432;"Classic Fries";2
+432;"Coca Cola";1
+432;"Veggie Supreme";2
+432;"Whiskey Sour";2
+433;"BBQ Chicken";2
+433;"Double Trouble";3
+433;"Garlic Parmesan Fries";1
+434;"BBQ Chicken";3
+434;"Classic Cheeseburger";1
+434;"Coca Cola";1
+436;"Classic Cheeseburger";3
+436;"Pepperoni";1
+436;"Sweet Potato Fries";2
+436;"White Wine";2
+437;"Bacon Burger";3
+437;"Double Trouble";2
+437;"Garlic Parmesan Fries";1
+438;"BBQ Chicken";2
+438;"Beer";1
+438;"Margherita";2
+438;"White Wine";2
+439;"Cheese Fries";3
+439;"Sweet Potato Fries";3
+439;"White Wine";3
+440;"BBQ Chicken";1
+440;"Beer";2
+440;"White Wine";2
+441;"Cheese Fries";2
+441;"Classic Cheeseburger";3
+441;"White Wine";2
+442;"Pepperoni";1
+442;"Red Wine";1
+443;"Classic Fries";1
+443;"Lemonade";2
+444;"Bacon Burger";2
+444;"Coca Cola";1
+445;"Double Trouble";1
+445;"Iced Tea";2
+445;"Lemonade";1
+445;"Milkshake";3
+445;"Red Wine";1
+445;"White Wine";2
+446;"Cheese Fries";1
+446;"Iced Tea";3
+447;"Classic Fries";1
+447;"Iced Tea";3
+448;"Classic Fries";2
+448;"Veggie Burger";2
+448;"White Wine";3
+450;"Beer";1
+450;"Garlic Parmesan Fries";2
+450;"Veggie Burger";2
+450;"Veggie Supreme";1
+451;"Bacon Burger";1
+451;"Iced Tea";3
+451;"Margherita";2
+452;"Margherita";3
+452;"Veggie Burger";1
+452;"Whiskey Sour";2
+453;"White Wine";2
+454;"Cheese Fries";3
+454;"Double Trouble";1
+454;"Iced Tea";1
+454;"Red Wine";3
+454;"Sweet Potato Fries";3
+455;"Beer";1
+455;"Coca Cola";3
+455;"Double Trouble";3
+455;"Sweet Potato Fries";2
+455;"Veggie Burger";2
+455;"Whiskey Sour";1
+456;"Beer";2
+456;"Classic Cheeseburger";2
+456;"Veggie Burger";1
+457;"Whiskey Sour";3
+457;"White Wine";2
+458;"Classic Fries";3
+458;"Double Trouble";3
+458;"Lemonade";2
+460;"Garlic Parmesan Fries";3
+460;"Lemonade";3
+460;"Milkshake";3
+460;"White Wine";2
+461;"Beer";1
+461;"Iced Tea";2
+461;"Margherita";3
+461;"Red Wine";2
+461;"Sweet Potato Fries";2
+464;"Classic Fries";2
+464;"Double Trouble";1
+465;"Pepperoni";2
+466;"Iced Tea";2
+468;"Cheese Fries";2
+468;"Double Trouble";2
+468;"Lemonade";3
+468;"Red Wine";2
+468;"Veggie Burger";1
+469;"Bacon Burger";2
+469;"BBQ Chicken";2
+469;"Beer";3
+470;"Milkshake";2
+470;"Veggie Burger";1
+470;"Whiskey Sour";2
+471;"Bacon Burger";2
+471;"BBQ Chicken";1
+471;"Red Wine";1
+472;"Red Wine";2
+473;"Bacon Burger";3
+473;"Classic Fries";3
+473;"Garlic Parmesan Fries";2
+473;"Iced Tea";3
+473;"Veggie Burger";2
+474;"Bacon Burger";3
+474;"Beer";3
+474;"Classic Fries";1
+474;"Iced Tea";3
+474;"Lemonade";3
+474;"Red Wine";2
+475;"Classic Fries";3
+475;"Margherita";2
+475;"Veggie Burger";2
+476;"BBQ Chicken";2
+476;"Beer";2
+476;"Margherita";2
+478;"BBQ Chicken";2
+478;"Beer";2
+478;"Coca Cola";2
+478;"Margherita";2
+478;"Veggie Supreme";2
+479;"Cheese Fries";3
+479;"Classic Fries";3
+479;"Coca Cola";2
+479;"Sweet Potato Fries";1
+481;"Iced Tea";1
+481;"Margherita";3
+481;"Milkshake";1
+481;"Red Wine";3
+481;"Whiskey Sour";1
+482;"Bacon Burger";1
+482;"BBQ Chicken";1
+482;"Coca Cola";3
+482;"Iced Tea";2
+482;"Veggie Supreme";2
+482;"White Wine";3
+483;"Beer";3
+483;"Cheese Fries";3
+483;"Classic Cheeseburger";2
+483;"Margherita";2
+483;"Sweet Potato Fries";2
+484;"Bacon Burger";2
+484;"BBQ Chicken";2
+484;"Beer";1
+485;"Beer";3
+485;"Iced Tea";2
+485;"Lemonade";1
+485;"Pepperoni";1
+486;"Classic Cheeseburger";2
+486;"Double Trouble";1
+486;"Veggie Supreme";3
+487;"Classic Fries";2
+487;"Garlic Parmesan Fries";1
+487;"Margherita";3
+488;"White Wine";3
+489;"Classic Fries";1
+489;"Iced Tea";3
+489;"Veggie Burger";3
+490;"Veggie Supreme";1
+491;"Cheese Fries";3
+491;"Iced Tea";1
+491;"Red Wine";1
+491;"Veggie Burger";1
+492;"Coca Cola";1
+492;"Pepperoni";2
+492;"White Wine";1
+493;"Beer";2
+493;"Classic Fries";2
+493;"Milkshake";3
+494;"BBQ Chicken";2
+494;"Classic Cheeseburger";1
+494;"Iced Tea";3
+495;"Cheese Fries";1
+495;"Classic Cheeseburger";1
+495;"Double Trouble";1
+495;"Red Wine";1
+496;"Cheese Fries";2
+496;"Double Trouble";1
+496;"Iced Tea";1
+496;"Lemonade";1
+496;"Milkshake";1
+496;"Veggie Burger";2
+497;"Cheese Fries";2
+497;"Margherita";3
+497;"Pepperoni";1
+498;"BBQ Chicken";3
+498;"Beer";1
+498;"Double Trouble";2
+498;"Margherita";1
+498;"Milkshake";1
+499;"BBQ Chicken";1
+499;"Double Trouble";2
+500;"Beer";2
+500;"Double Trouble";3
+500;"Pepperoni";2
+500;"Sweet Potato Fries";3
+500;"White Wine";2
+502;"Beer";1
+502;"Classic Fries";2
+502;"Iced Tea";3
+502;"Veggie Supreme";2
+503;"Classic Cheeseburger";2
+503;"Whiskey Sour";1
+504;"Cheese Fries";2
+504;"Double Trouble";1
+504;"Lemonade";3
+506;"Margherita";3
+506;"Pepperoni";2
+507;"Bacon Burger";2
+507;"Double Trouble";1
+507;"Sweet Potato Fries";1
+507;"Veggie Supreme";1
+508;"Lemonade";2
+508;"Milkshake";2
+509;"Cheese Fries";1
+509;"Coca Cola";2
+509;"Garlic Parmesan Fries";3
+509;"Iced Tea";3
+509;"Veggie Supreme";2
+510;"Bacon Burger";1
+510;"Double Trouble";2
+510;"Garlic Parmesan Fries";3
+511;"Bacon Burger";1
+511;"Garlic Parmesan Fries";2
+511;"Pepperoni";1
+511;"Sweet Potato Fries";2
+512;"Classic Cheeseburger";3
+512;"Garlic Parmesan Fries";2
+512;"Iced Tea";1
+512;"Pepperoni";2
+512;"Veggie Burger";1
+513;"Cheese Fries";1
+513;"Iced Tea";1
+513;"Pepperoni";2
+513;"White Wine";1
+514;"Bacon Burger";2
+514;"Cheese Fries";1
+514;"Sweet Potato Fries";2
+515;"Classic Fries";2
+515;"Lemonade";1
+515;"Red Wine";1
+516;"BBQ Chicken";2
+516;"Red Wine";3
+516;"Sweet Potato Fries";2
+516;"Whiskey Sour";3
+517;"Beer";2
+517;"Veggie Burger";3
+517;"Whiskey Sour";1
+518;"Bacon Burger";1
+518;"Coca Cola";2
+518;"Margherita";3
+519;"Classic Fries";1
+519;"Pepperoni";2
+519;"Sweet Potato Fries";3
+520;"Classic Fries";2
+520;"Double Trouble";3
+520;"Garlic Parmesan Fries";1
+520;"Margherita";3
+520;"Pepperoni";1
+521;"Classic Cheeseburger";2
+521;"Iced Tea";1
+521;"Lemonade";3
+521;"Milkshake";1
+521;"White Wine";1
+522;"Beer";2
+522;"Garlic Parmesan Fries";2
+522;"Pepperoni";2
+522;"Red Wine";1
+523;"BBQ Chicken";1
+523;"Coca Cola";2
+523;"Double Trouble";2
+523;"Margherita";3
+523;"Sweet Potato Fries";1
+523;"Veggie Burger";3
+526;"Classic Fries";1
+526;"Coca Cola";2
+526;"Double Trouble";2
+526;"Veggie Burger";1
+527;"Cheese Fries";2
+527;"Iced Tea";2
+527;"Milkshake";2
+527;"Red Wine";1
+527;"Sweet Potato Fries";3
+528;"BBQ Chicken";2
+528;"Classic Fries";2
+528;"Coca Cola";1
+529;"Red Wine";2
+529;"Sweet Potato Fries";2
+529;"Veggie Burger";1
+529;"Whiskey Sour";2
+529;"White Wine";1
+530;"Classic Fries";3
+531;"Cheese Fries";3
+531;"Double Trouble";3
+531;"Veggie Supreme";1
+531;"Whiskey Sour";1
+532;"Iced Tea";1
+532;"Whiskey Sour";1
+532;"White Wine";1
+535;"Beer";3
+535;"Garlic Parmesan Fries";1
+535;"Veggie Supreme";2
+536;"Cheese Fries";2
+536;"Iced Tea";1
+537;"Iced Tea";3
+537;"Pepperoni";3
+537;"Sweet Potato Fries";3
+537;"Veggie Burger";1
+537;"White Wine";2
+538;"Coca Cola";1
+538;"Lemonade";3
+539;"BBQ Chicken";2
+539;"Cheese Fries";2
+539;"Classic Fries";1
+539;"Double Trouble";2
+539;"Veggie Supreme";2
+540;"Bacon Burger";1
+540;"Beer";1
+540;"Iced Tea";3
+540;"Lemonade";1
+541;"BBQ Chicken";3
+541;"Beer";3
+541;"Classic Cheeseburger";3
+541;"Classic Fries";1
+541;"Lemonade";3
+542;"Classic Cheeseburger";2
+542;"Classic Fries";3
+542;"Milkshake";2
+542;"Red Wine";3
+542;"Veggie Burger";1
+542;"Whiskey Sour";2
+543;"Double Trouble";2
+543;"Pepperoni";2
+543;"Red Wine";1
+543;"Veggie Burger";1
+545;"Cheese Fries";1
+545;"Classic Cheeseburger";3
+545;"Classic Fries";1
+545;"Lemonade";1
+546;"Classic Cheeseburger";1
+546;"Garlic Parmesan Fries";1
+546;"Lemonade";2
+546;"Pepperoni";3
+546;"Whiskey Sour";3
+547;"Beer";1
+547;"Pepperoni";2
+548;"Beer";2
+548;"Classic Cheeseburger";3
+548;"Classic Fries";3
+548;"Veggie Burger";3
+549;"Classic Fries";2
+549;"Double Trouble";1
+549;"White Wine";1
+550;"Double Trouble";1
+550;"Lemonade";1
+552;"Cheese Fries";3
+552;"Classic Fries";3
+552;"Lemonade";2
+552;"Pepperoni";3
+552;"Veggie Supreme";2
+553;"Classic Fries";3
+553;"Margherita";3
+553;"Red Wine";3
+553;"White Wine";2
+555;"Margherita";3
+556;"Red Wine";2
+556;"Whiskey Sour";2
+556;"White Wine";2
+557;"Cheese Fries";3
+557;"Double Trouble";1
+557;"Red Wine";2
+557;"Whiskey Sour";1
+558;"BBQ Chicken";3
+558;"Sweet Potato Fries";3
+558;"Veggie Burger";1
+559;"Bacon Burger";1
+559;"Cheese Fries";1
+559;"Sweet Potato Fries";1
+560;"Margherita";1
+560;"Pepperoni";1
+561;"Classic Cheeseburger";1
+561;"Classic Fries";1
+561;"Iced Tea";1
+561;"Margherita";1
+562;"Bacon Burger";3
+562;"Margherita";3
+562;"Sweet Potato Fries";3
+562;"White Wine";2
+563;"Classic Cheeseburger";1
+563;"Garlic Parmesan Fries";1
+563;"Whiskey Sour";1
+564;"Margherita";2
+564;"Sweet Potato Fries";1
+564;"Veggie Supreme";3
+565;"Coca Cola";3
+565;"Sweet Potato Fries";3
+565;"Whiskey Sour";2
+566;"Coca Cola";2
+566;"Margherita";2
+566;"Red Wine";1
+566;"White Wine";3
+567;"Iced Tea";1
+567;"Pepperoni";1
+567;"Sweet Potato Fries";2
+567;"White Wine";3
+568;"Bacon Burger";2
+568;"Milkshake";1
+568;"White Wine";2
+569;"Garlic Parmesan Fries";1
+569;"Lemonade";3
+569;"Red Wine";2
+569;"Veggie Burger";1
+570;"Classic Fries";3
+570;"White Wine";2
+571;"Margherita";3
+571;"Whiskey Sour";2
+571;"White Wine";3
+572;"Beer";3
+573;"Beer";3
+573;"Iced Tea";2
+573;"Pepperoni";2
+573;"Veggie Burger";2
+574;"Bacon Burger";1
+574;"Beer";1
+574;"Garlic Parmesan Fries";3
+574;"Iced Tea";1
+574;"White Wine";1
+575;"BBQ Chicken";3
+575;"Margherita";3
+575;"Milkshake";3
+576;"Double Trouble";1
+576;"Lemonade";2
+578;"Beer";2
+578;"Double Trouble";3
+578;"Iced Tea";3
+578;"Veggie Burger";1
+579;"Classic Fries";1
+579;"Sweet Potato Fries";2
+579;"Veggie Supreme";3
+579;"Whiskey Sour";2
+580;"Double Trouble";2
+580;"Veggie Burger";2
+581;"Classic Fries";3
+581;"Coca Cola";1
+581;"White Wine";3
+582;"Margherita";1
+582;"Red Wine";3
+582;"Sweet Potato Fries";2
+583;"Cheese Fries";2
+583;"Double Trouble";2
+583;"Red Wine";1
+583;"Veggie Burger";2
+585;"Bacon Burger";2
+585;"Cheese Fries";1
+585;"Iced Tea";3
+585;"Veggie Burger";2
+586;"BBQ Chicken";3
+586;"Beer";3
+586;"Classic Cheeseburger";1
+586;"Veggie Supreme";2
+587;"BBQ Chicken";1
+587;"Beer";2
+587;"Classic Cheeseburger";1
+587;"Iced Tea";2
+587;"Milkshake";2
+588;"Cheese Fries";3
+588;"Classic Cheeseburger";2
+588;"Coca Cola";2
+588;"Veggie Supreme";1
+589;"Classic Fries";2
+589;"Red Wine";2
+589;"Veggie Supreme";2
+590;"Margherita";1
+591;"Classic Fries";3
+591;"Double Trouble";3
+591;"Milkshake";3
+592;"Classic Cheeseburger";2
+592;"Classic Fries";1
+592;"Veggie Supreme";2
+592;"Whiskey Sour";1
+593;"Veggie Burger";1
+593;"Whiskey Sour";3
+594;"Coca Cola";2
+595;"Garlic Parmesan Fries";2
+595;"Pepperoni";3
+596;"Garlic Parmesan Fries";1
+596;"White Wine";3
+597;"Coca Cola";2
+597;"Double Trouble";1
+597;"Margherita";3
+597;"Red Wine";1
+597;"Veggie Burger";2
+598;"Classic Fries";1
+598;"Double Trouble";3
+598;"Lemonade";2
+598;"White Wine";3
+599;"Bacon Burger";3
+599;"Sweet Potato Fries";1
+599;"Veggie Burger";2
+600;"Garlic Parmesan Fries";3
+600;"Margherita";3
+600;"Pepperoni";1
+600;"Sweet Potato Fries";3
+601;"Cheese Fries";3
+601;"Veggie Burger";2
+601;"White Wine";2
+602;"Milkshake";1
+602;"Pepperoni";1
+602;"Veggie Burger";2
+602;"Veggie Supreme";3
+602;"White Wine";1
+603;"Classic Cheeseburger";3
+603;"Double Trouble";2
+603;"Iced Tea";3
+603;"Sweet Potato Fries";2
+604;"Margherita";3
+604;"White Wine";2
+605;"Bacon Burger";3
+605;"Milkshake";1
+605;"Pepperoni";2
+608;"Bacon Burger";2
+608;"Beer";3
+608;"Pepperoni";3
+608;"White Wine";1
+609;"Cheese Fries";3
+609;"Garlic Parmesan Fries";1
+610;"Beer";2
+610;"Cheese Fries";2
+610;"Classic Cheeseburger";3
+610;"Milkshake";2
+610;"Whiskey Sour";1
+611;"Classic Cheeseburger";2
+611;"Classic Fries";2
+611;"Milkshake";1
+612;"Classic Fries";2
+612;"Pepperoni";3
+612;"Veggie Burger";1
+612;"Veggie Supreme";1
+613;"Double Trouble";3
+613;"Margherita";3
+613;"Veggie Burger";2
+614;"Coca Cola";2
+614;"Double Trouble";2
+614;"Red Wine";3
+615;"Classic Cheeseburger";1
+615;"Classic Fries";3
+615;"White Wine";2
+616;"BBQ Chicken";2
+616;"Classic Fries";2
+616;"Veggie Supreme";3
+617;"Milkshake";1
+617;"Whiskey Sour";1
+618;"BBQ Chicken";3
+618;"Classic Fries";1
+618;"Lemonade";3
+618;"Margherita";1
+618;"Whiskey Sour";1
+619;"Cheese Fries";1
+619;"Veggie Supreme";1
+620;"Bacon Burger";3
+620;"BBQ Chicken";1
+620;"Double Trouble";3
+620;"Veggie Burger";2
+621;"Bacon Burger";3
+621;"Beer";1
+621;"Classic Cheeseburger";2
+621;"Classic Fries";2
+621;"Pepperoni";1
+621;"Veggie Burger";3
+623;"BBQ Chicken";3
+623;"Margherita";3
+624;"Double Trouble";3
+624;"Pepperoni";1
+624;"Whiskey Sour";1
+625;"Cheese Fries";1
+625;"Classic Cheeseburger";3
+625;"Lemonade";3
+625;"Red Wine";1
+626;"Classic Cheeseburger";1
+626;"Classic Fries";1
+626;"Garlic Parmesan Fries";1
+626;"Sweet Potato Fries";1
+627;"Coca Cola";1
+627;"Lemonade";2
+627;"Pepperoni";3
+627;"Veggie Burger";1
+628;"Beer";1
+628;"Sweet Potato Fries";1
+628;"White Wine";1
+629;"Bacon Burger";1
+629;"Coca Cola";3
+629;"Lemonade";2
+629;"Sweet Potato Fries";1
+629;"Veggie Supreme";2
+630;"Beer";2
+630;"Cheese Fries";1
+630;"Classic Cheeseburger";3
+630;"Milkshake";2
+630;"Veggie Supreme";2
+631;"Coca Cola";3
+631;"Sweet Potato Fries";3
+631;"Whiskey Sour";1
+632;"BBQ Chicken";2
+632;"Double Trouble";3
+632;"Pepperoni";1
+632;"Veggie Supreme";1
+633;"Classic Fries";3
+633;"Double Trouble";2
+633;"Milkshake";3
+633;"Sweet Potato Fries";2
+634;"Classic Cheeseburger";1
+634;"Red Wine";2
+634;"Sweet Potato Fries";3
+634;"Veggie Burger";1
+635;"BBQ Chicken";1
+635;"Margherita";1
+635;"Milkshake";1
+636;"Cheese Fries";1
+636;"Garlic Parmesan Fries";1
+636;"Pepperoni";3
+637;"BBQ Chicken";3
+637;"Beer";1
+637;"Cheese Fries";3
+637;"Iced Tea";1
+637;"Lemonade";2
+637;"Red Wine";2
+638;"Garlic Parmesan Fries";2
+638;"Lemonade";1
+639;"BBQ Chicken";2
+639;"Garlic Parmesan Fries";3
+639;"Milkshake";2
+639;"Red Wine";1
+639;"Veggie Burger";1
+640;"Beer";2
+640;"Classic Cheeseburger";2
+640;"Lemonade";3
+640;"Sweet Potato Fries";1
+641;"Garlic Parmesan Fries";2
+641;"Iced Tea";2
+641;"Milkshake";1
+642;"Classic Fries";2
+642;"Lemonade";1
+642;"Milkshake";3
+643;"Classic Cheeseburger";2
+643;"Iced Tea";1
+643;"Lemonade";1
+643;"Pepperoni";2
+644;"Beer";1
+644;"Classic Cheeseburger";1
+644;"Iced Tea";1
+644;"Whiskey Sour";1
+645;"BBQ Chicken";1
+645;"Classic Fries";3
+645;"Veggie Supreme";2
+645;"White Wine";1
+646;"Beer";2
+646;"Garlic Parmesan Fries";1
+646;"Veggie Supreme";3
+646;"White Wine";2
+647;"Bacon Burger";2
+647;"Cheese Fries";3
+647;"Margherita";2
+647;"Veggie Burger";1
+648;"BBQ Chicken";3
+648;"Beer";3
+648;"Coca Cola";3
+648;"Garlic Parmesan Fries";3
+648;"Iced Tea";3
+648;"Veggie Burger";2
+649;"Beer";1
+649;"Lemonade";1
+649;"Margherita";3
+649;"Red Wine";1
+650;"Cheese Fries";2
+650;"Classic Fries";2
+650;"Double Trouble";1
+650;"Iced Tea";1
+650;"Milkshake";3
+651;"Iced Tea";1
+652;"Double Trouble";3
+652;"Margherita";1
+652;"Sweet Potato Fries";3
+652;"Veggie Supreme";2
+653;"BBQ Chicken";2
+653;"Milkshake";3
+653;"Red Wine";1
+653;"Sweet Potato Fries";1
+653;"Whiskey Sour";2
+654;"Cheese Fries";3
+654;"Milkshake";2
+654;"Pepperoni";2
+655;"Classic Fries";3
+655;"Lemonade";2
+655;"Margherita";1
+655;"Red Wine";1
+655;"Sweet Potato Fries";2
+656;"Double Trouble";2
+656;"White Wine";1
+657;"Double Trouble";2
+657;"Iced Tea";1
+658;"Classic Fries";2
+658;"Coca Cola";2
+658;"Margherita";1
+658;"Whiskey Sour";1
+659;"Bacon Burger";2
+659;"Beer";2
+659;"Iced Tea";1
+659;"White Wine";2
+660;"Lemonade";3
+660;"Milkshake";3
+660;"White Wine";1
+661;"Cheese Fries";2
+661;"Iced Tea";2
+661;"Lemonade";2
+661;"Pepperoni";3
+661;"Veggie Burger";2
+662;"Classic Fries";2
+662;"Pepperoni";1
+662;"Red Wine";1
+662;"Sweet Potato Fries";1
+663;"Beer";1
+663;"Cheese Fries";2
+663;"Classic Fries";2
+663;"Iced Tea";2
+663;"Red Wine";2
+664;"Classic Cheeseburger";1
+664;"Coca Cola";3
+665;"Pepperoni";2
+665;"Veggie Supreme";3
+665;"Whiskey Sour";1
+666;"BBQ Chicken";3
+666;"Beer";2
+666;"Margherita";2
+666;"Sweet Potato Fries";1
+666;"Veggie Supreme";1
+667;"Coca Cola";2
+667;"Iced Tea";3
+667;"Pepperoni";1
+667;"Red Wine";2
+667;"Veggie Burger";2
+667;"Veggie Supreme";1
+668;"Cheese Fries";3
+668;"Coca Cola";3
+668;"Lemonade";3
+668;"Whiskey Sour";1
+669;"Cheese Fries";1
+669;"Garlic Parmesan Fries";1
+670;"BBQ Chicken";1
+670;"Cheese Fries";3
+670;"Coca Cola";3
+670;"Sweet Potato Fries";3
+670;"Veggie Supreme";3
+671;"BBQ Chicken";2
+671;"Lemonade";1
+671;"Margherita";2
+671;"Milkshake";2
+672;"BBQ Chicken";2
+672;"Beer";3
+672;"Classic Cheeseburger";3
+672;"Coca Cola";2
+673;"Garlic Parmesan Fries";2
+673;"Lemonade";1
+673;"Whiskey Sour";3
+674;"Classic Cheeseburger";1
+674;"Garlic Parmesan Fries";3
+674;"Lemonade";3
+675;"Cheese Fries";3
+675;"Coca Cola";3
+675;"Lemonade";3
+675;"Veggie Supreme";3
+675;"Whiskey Sour";2
+677;"Coca Cola";1
+677;"Double Trouble";2
+677;"Garlic Parmesan Fries";1
+677;"Sweet Potato Fries";3
+677;"Veggie Burger";2
+678;"Garlic Parmesan Fries";3
+678;"Iced Tea";2
+678;"Whiskey Sour";2
+679;"Double Trouble";1
+679;"Iced Tea";2
+679;"Lemonade";1
+679;"Red Wine";3
+680;"Classic Fries";1
+680;"Milkshake";2
+680;"Veggie Supreme";2
+681;"Classic Fries";1
+681;"Coca Cola";1
+681;"Pepperoni";2
+681;"Whiskey Sour";2
+682;"Classic Cheeseburger";2
+682;"Coca Cola";3
+682;"Garlic Parmesan Fries";2
+682;"Lemonade";2
+683;"Milkshake";3
+683;"Veggie Burger";1
+684;"Classic Fries";2
+684;"Garlic Parmesan Fries";2
+684;"Iced Tea";1
+684;"Sweet Potato Fries";3
+684;"Veggie Supreme";2
+684;"White Wine";3
+685;"Classic Fries";1
+685;"Lemonade";2
+685;"Red Wine";2
+686;"Iced Tea";3
+686;"White Wine";1
+687;"Bacon Burger";2
+687;"Classic Fries";3
+687;"Garlic Parmesan Fries";3
+687;"White Wine";2
+689;"Cheese Fries";1
+689;"Iced Tea";3
+689;"Lemonade";3
+690;"Bacon Burger";3
+690;"Beer";1
+690;"Garlic Parmesan Fries";2
+690;"Lemonade";2
+690;"Margherita";3
+690;"Milkshake";2
+691;"Garlic Parmesan Fries";1
+691;"Pepperoni";2
+692;"Margherita";2
+692;"Red Wine";2
+692;"White Wine";1
+693;"Red Wine";2
+694;"Beer";2
+694;"Coca Cola";1
+694;"Lemonade";1
+694;"Veggie Supreme";3
+694;"White Wine";1
+695;"Bacon Burger";1
+695;"Classic Cheeseburger";3
+695;"Milkshake";3
+696;"Whiskey Sour";1
+697;"Bacon Burger";3
+697;"Cheese Fries";2
+697;"Margherita";1
+697;"Sweet Potato Fries";2
+698;"Beer";1
+698;"Cheese Fries";3
+698;"Classic Cheeseburger";1
+698;"Pepperoni";2
+698;"Veggie Supreme";3
+699;"Garlic Parmesan Fries";3
+699;"Sweet Potato Fries";2
+700;"Iced Tea";1
+700;"Lemonade";3
+700;"Margherita";1
+700;"Veggie Burger";1
+701;"Cheese Fries";3
+701;"Coca Cola";2
+701;"Whiskey Sour";2
+701;"White Wine";2
+702;"BBQ Chicken";2
+702;"Cheese Fries";3
+702;"Red Wine";3
+703;"Bacon Burger";3
+703;"Coca Cola";3
+703;"Veggie Burger";3
+703;"White Wine";3
+704;"Bacon Burger";1
+704;"Milkshake";2
+704;"Pepperoni";2
+704;"Whiskey Sour";3
+705;"Garlic Parmesan Fries";1
+705;"White Wine";1
+707;"Cheese Fries";1
+707;"Classic Cheeseburger";3
+707;"Iced Tea";3
+707;"Margherita";2
+707;"Milkshake";2
+707;"White Wine";2
+708;"BBQ Chicken";2
+708;"Beer";2
+708;"Classic Cheeseburger";3
+708;"Double Trouble";2
+709;"Coca Cola";3
+709;"Double Trouble";3
+709;"Iced Tea";1
+709;"Lemonade";3
+710;"Beer";2
+710;"Cheese Fries";2
+710;"Classic Fries";2
+710;"Coca Cola";2
+710;"White Wine";1
+711;"Classic Fries";1
+711;"Coca Cola";2
+711;"Double Trouble";1
+711;"Lemonade";2
+711;"Veggie Burger";3
+712;"Bacon Burger";1
+712;"Classic Cheeseburger";3
+712;"Coca Cola";1
+712;"Sweet Potato Fries";2
+712;"Veggie Supreme";3
+713;"Bacon Burger";2
+713;"BBQ Chicken";3
+713;"Garlic Parmesan Fries";3
+713;"Milkshake";3
+713;"White Wine";1
+714;"Milkshake";2
+714;"Pepperoni";3
+715;"Bacon Burger";2
+715;"BBQ Chicken";3
+715;"Garlic Parmesan Fries";2
+715;"Margherita";1
+715;"Veggie Supreme";3
+716;"BBQ Chicken";1
+716;"Sweet Potato Fries";3
+716;"Veggie Burger";1
+716;"Whiskey Sour";3
+717;"Beer";3
+717;"Coca Cola";3
+717;"Whiskey Sour";2
+719;"Cheese Fries";1
+719;"Iced Tea";2
+719;"Milkshake";2
+719;"Pepperoni";3
+720;"Beer";3
+720;"Double Trouble";2
+720;"Veggie Supreme";1
+721;"Bacon Burger";1
+721;"Garlic Parmesan Fries";1
+721;"Milkshake";2
+721;"Veggie Burger";2
+721;"Whiskey Sour";3
+722;"Double Trouble";1
+722;"Garlic Parmesan Fries";1
+722;"Lemonade";2
+722;"Red Wine";3
+724;"Red Wine";2
+724;"Sweet Potato Fries";2
+725;"Bacon Burger";2
+725;"BBQ Chicken";2
+725;"Coca Cola";1
+725;"Double Trouble";2
+725;"Pepperoni";3
+726;"Bacon Burger";1
+726;"Sweet Potato Fries";1
+727;"Double Trouble";1
+727;"Pepperoni";3
+728;"Cheese Fries";1
+728;"Iced Tea";3
+729;"Milkshake";1
+730;"Iced Tea";2
+730;"Margherita";1
+730;"Veggie Burger";3
+731;"Beer";3
+731;"Red Wine";1
+731;"Whiskey Sour";2
+732;"Beer";3
+732;"Coca Cola";1
+732;"Margherita";1
+732;"Whiskey Sour";3
+732;"White Wine";2
+733;"Bacon Burger";3
+733;"Garlic Parmesan Fries";1
+733;"Veggie Burger";1
+733;"Veggie Supreme";1
+733;"Whiskey Sour";3
+733;"White Wine";2
+734;"Classic Cheeseburger";3
+734;"Garlic Parmesan Fries";3
+734;"Iced Tea";3
+734;"Pepperoni";2
+735;"Sweet Potato Fries";2
+735;"White Wine";3
+736;"BBQ Chicken";2
+736;"Classic Fries";1
+736;"Whiskey Sour";2
+736;"White Wine";1
+737;"Bacon Burger";1
+737;"Iced Tea";3
+737;"Veggie Supreme";3
+738;"BBQ Chicken";3
+738;"Double Trouble";1
+738;"Lemonade";1
+738;"Pepperoni";2
+738;"Red Wine";1
+739;"Classic Cheeseburger";1
+739;"Red Wine";1
+740;"Coca Cola";2
+740;"Veggie Burger";1
+740;"White Wine";2
+741;"BBQ Chicken";3
+741;"Classic Fries";2
+741;"Pepperoni";3
+741;"White Wine";3
+742;"BBQ Chicken";3
+742;"Cheese Fries";3
+742;"Coca Cola";3
+742;"Iced Tea";1
+743;"Lemonade";1
+743;"Margherita";1
+743;"Milkshake";3
+745;"Bacon Burger";3
+745;"BBQ Chicken";3
+745;"Classic Cheeseburger";2
+745;"Iced Tea";1
+745;"Veggie Supreme";2
+746;"Garlic Parmesan Fries";2
+746;"Sweet Potato Fries";2
+746;"Veggie Burger";1
+747;"BBQ Chicken";2
+747;"Beer";2
+747;"Classic Fries";1
+747;"Iced Tea";3
+748;"White Wine";2
+749;"Red Wine";1
+749;"Veggie Burger";2
+749;"White Wine";3
+750;"Bacon Burger";2
+750;"Beer";1
+750;"Lemonade";1
+750;"Whiskey Sour";3
+751;"Coca Cola";3
+751;"Double Trouble";3
+751;"Lemonade";2
+751;"White Wine";2
+752;"Beer";1
+752;"Iced Tea";1
+752;"Lemonade";1
+752;"Red Wine";1
+753;"Coca Cola";2
+753;"Margherita";1
+753;"Veggie Burger";2
+754;"Classic Fries";2
+754;"Coca Cola";1
+754;"Garlic Parmesan Fries";1
+754;"Milkshake";2
+754;"White Wine";3
+755;"Classic Cheeseburger";3
+756;"Bacon Burger";1
+756;"Classic Fries";3
+756;"Double Trouble";1
+757;"Beer";3
+757;"Garlic Parmesan Fries";3
+757;"Iced Tea";1
+757;"Milkshake";1
+757;"Veggie Supreme";3
+757;"White Wine";2
+758;"Bacon Burger";3
+758;"Double Trouble";2
+758;"Margherita";1
+758;"Milkshake";1
+758;"Red Wine";3
+759;"Beer";1
+759;"Cheese Fries";1
+759;"Coca Cola";3
+759;"Iced Tea";2
+759;"Red Wine";2
+760;"BBQ Chicken";3
+760;"Classic Fries";1
+760;"Lemonade";1
+760;"Milkshake";1
+760;"Veggie Burger";1
+761;"Margherita";1
+761;"Red Wine";3
+762;"Bacon Burger";2
+762;"Beer";2
+762;"Sweet Potato Fries";1
+762;"Veggie Supreme";1
+763;"BBQ Chicken";2
+763;"Double Trouble";3
+763;"Lemonade";2
+763;"Veggie Burger";3
+763;"Veggie Supreme";3
+764;"Bacon Burger";3
+764;"Classic Cheeseburger";1
+764;"Coca Cola";2
+764;"Garlic Parmesan Fries";1
+765;"Lemonade";3
+765;"Sweet Potato Fries";1
+766;"Milkshake";3
+766;"White Wine";1
+767;"Bacon Burger";1
+767;"Garlic Parmesan Fries";3
+767;"Margherita";1
+767;"Milkshake";3
+768;"Double Trouble";3
+768;"Garlic Parmesan Fries";3
+768;"Iced Tea";3
+768;"Whiskey Sour";2
+769;"Cheese Fries";2
+769;"Classic Cheeseburger";3
+769;"Whiskey Sour";3
+770;"Bacon Burger";3
+770;"Classic Fries";2
+770;"Iced Tea";1
+770;"Sweet Potato Fries";3
+771;"BBQ Chicken";1
+771;"Milkshake";3
+771;"Sweet Potato Fries";2
+771;"White Wine";3
+772;"Bacon Burger";3
+772;"Double Trouble";3
+772;"Lemonade";3
+773;"Coca Cola";2
+773;"Veggie Burger";2
+773;"White Wine";2
+774;"Beer";1
+774;"Iced Tea";3
+774;"Lemonade";1
+774;"Pepperoni";2
+774;"Veggie Supreme";2
+775;"Pepperoni";2
+775;"Red Wine";1
+775;"Sweet Potato Fries";1
+775;"Veggie Supreme";2
+775;"White Wine";1
+776;"BBQ Chicken";2
+776;"Iced Tea";1
+776;"Lemonade";2
+776;"Margherita";2
+776;"Red Wine";1
+777;"Bacon Burger";1
+777;"Cheese Fries";3
+778;"Classic Cheeseburger";1
+778;"Double Trouble";3
+778;"Lemonade";3
+778;"Milkshake";3
+778;"Red Wine";2
+779;"Milkshake";2
+780;"BBQ Chicken";3
+780;"Coca Cola";1
+780;"Red Wine";3
+780;"Sweet Potato Fries";2
+781;"Classic Fries";2
+781;"Garlic Parmesan Fries";3
+781;"Pepperoni";3
+782;"Lemonade";2
+782;"Milkshake";2
+783;"Classic Cheeseburger";3
+783;"Double Trouble";1
+783;"Lemonade";1
+784;"Garlic Parmesan Fries";2
+784;"Veggie Burger";2
+785;"Beer";1
+785;"Coca Cola";2
+785;"Garlic Parmesan Fries";3
+785;"Lemonade";1
+785;"White Wine";3
+786;"Classic Cheeseburger";3
+786;"Lemonade";1
+786;"Sweet Potato Fries";3
+786;"Veggie Burger";3
+786;"Whiskey Sour";1
+787;"BBQ Chicken";1
+787;"Classic Cheeseburger";1
+787;"Margherita";3
+787;"Milkshake";1
+788;"Bacon Burger";1
+788;"BBQ Chicken";1
+788;"Veggie Burger";1
+789;"Double Trouble";1
+789;"Margherita";2
+789;"Whiskey Sour";3
+790;"Bacon Burger";3
+790;"Lemonade";2
+790;"Milkshake";2
+790;"Veggie Burger";2
+790;"White Wine";3
+791;"Bacon Burger";2
+791;"Cheese Fries";2
+791;"Classic Cheeseburger";1
+791;"Margherita";2
+792;"Bacon Burger";1
+792;"BBQ Chicken";3
+792;"Beer";2
+792;"Lemonade";1
+792;"Margherita";3
+793;"Classic Cheeseburger";3
+793;"Margherita";2
+793;"Sweet Potato Fries";2
+794;"BBQ Chicken";1
+794;"Beer";2
+794;"Double Trouble";3
+794;"Margherita";2
+795;"Bacon Burger";1
+795;"Pepperoni";3
+796;"Coca Cola";1
+796;"Double Trouble";2
+796;"Pepperoni";3
+798;"Garlic Parmesan Fries";3
+799;"Bacon Burger";2
+799;"BBQ Chicken";1
+799;"Cheese Fries";3
+799;"Margherita";2
+799;"Sweet Potato Fries";1
+802;"Double Trouble";1
+804;"Red Wine";1
+805;"Classic Cheeseburger";3
+805;"Coca Cola";2
+805;"Lemonade";3
+805;"Red Wine";1
+806;"Garlic Parmesan Fries";2
+806;"Milkshake";3
+806;"Sweet Potato Fries";1
+807;"Beer";2
+807;"Garlic Parmesan Fries";2
+809;"BBQ Chicken";1
+809;"Beer";1
+809;"Red Wine";1
+809;"Sweet Potato Fries";1
+810;"Cheese Fries";1
+810;"Double Trouble";2
+810;"Margherita";1
+810;"Pepperoni";1
+811;"BBQ Chicken";3
+811;"Double Trouble";3
+811;"Garlic Parmesan Fries";3
+812;"Beer";1
+812;"Cheese Fries";1
+812;"Classic Fries";3
+812;"Coca Cola";3
+812;"Veggie Burger";2
+812;"Veggie Supreme";1
+813;"Milkshake";2
+813;"White Wine";2
+814;"Coca Cola";1
+814;"Garlic Parmesan Fries";3
+814;"Milkshake";1
+814;"Sweet Potato Fries";1
+815;"BBQ Chicken";2
+815;"Milkshake";1
+815;"Sweet Potato Fries";3
+815;"White Wine";3
+816;"Classic Cheeseburger";1
+816;"Whiskey Sour";1
+816;"White Wine";1
+817;"Classic Cheeseburger";1
+817;"Garlic Parmesan Fries";1
+817;"Margherita";1
+817;"Veggie Supreme";2
+818;"Iced Tea";1
+818;"Lemonade";2
+818;"Milkshake";2
+818;"Veggie Burger";2
+818;"Veggie Supreme";3
+820;"BBQ Chicken";2
+820;"Beer";2
+820;"Red Wine";2
+820;"Veggie Supreme";2
+822;"Lemonade";3
+822;"Sweet Potato Fries";1
+823;"Classic Cheeseburger";2
+823;"Classic Fries";2
+823;"Milkshake";1
+823;"Pepperoni";1
+823;"Sweet Potato Fries";1
+824;"Bacon Burger";2
+824;"Classic Fries";1
+824;"Margherita";2
+824;"Milkshake";2
+824;"Veggie Burger";2
+825;"Beer";2
+825;"Iced Tea";3
+825;"Red Wine";2
+826;"Classic Fries";3
+826;"Garlic Parmesan Fries";2
+827;"BBQ Chicken";2
+828;"Bacon Burger";2
+828;"Veggie Burger";1
+828;"Veggie Supreme";3
+828;"White Wine";3
+829;"Classic Cheeseburger";2
+829;"Coca Cola";3
+829;"Lemonade";1
+829;"Sweet Potato Fries";2
+829;"Veggie Burger";2
+829;"Veggie Supreme";2
+830;"BBQ Chicken";2
+830;"Beer";1
+830;"Garlic Parmesan Fries";2
+830;"Iced Tea";1
+830;"Milkshake";1
+830;"Sweet Potato Fries";3
+831;"Double Trouble";2
+831;"Milkshake";3
+832;"Classic Cheeseburger";3
+832;"Coca Cola";3
+832;"Garlic Parmesan Fries";1
+832;"White Wine";1
+833;"BBQ Chicken";3
+833;"Classic Cheeseburger";3
+833;"Double Trouble";2
+833;"Pepperoni";1
+834;"Coca Cola";3
+834;"Double Trouble";1
+834;"Garlic Parmesan Fries";1
+834;"Lemonade";1
+835;"Double Trouble";3
+835;"Garlic Parmesan Fries";1
+835;"Lemonade";1
+835;"Pepperoni";1
+835;"Veggie Supreme";1
+836;"Cheese Fries";1
+836;"Coca Cola";2
+836;"Double Trouble";1
+836;"Garlic Parmesan Fries";2
+836;"Milkshake";2
+836;"Whiskey Sour";1
+837;"Beer";1
+837;"Margherita";3
+837;"Milkshake";2
+837;"Sweet Potato Fries";3
+838;"Coca Cola";2
+838;"Lemonade";3
+838;"Red Wine";1
+838;"Sweet Potato Fries";1
+838;"Veggie Supreme";3
+839;"Coca Cola";2
+839;"Double Trouble";3
+839;"Milkshake";1
+839;"Veggie Supreme";3
+841;"Cheese Fries";1
+841;"Classic Fries";2
+841;"Garlic Parmesan Fries";2
+841;"Margherita";3
+841;"Milkshake";1
+841;"Veggie Supreme";1
+842;"BBQ Chicken";1
+842;"Cheese Fries";1
+842;"Classic Cheeseburger";1
+842;"Pepperoni";3
+843;"Cheese Fries";2
+843;"Sweet Potato Fries";3
+843;"Veggie Burger";1
+843;"Whiskey Sour";2
+843;"White Wine";3
+844;"Beer";2
+844;"Classic Fries";1
+844;"Iced Tea";1
+844;"Lemonade";2
+845;"Classic Fries";1
+845;"Lemonade";1
+845;"Veggie Supreme";3
+846;"BBQ Chicken";2
+846;"Iced Tea";2
+846;"Margherita";2
+847;"Classic Fries";2
+847;"Lemonade";1
+848;"Margherita";2
+848;"Milkshake";1
+849;"Bacon Burger";3
+849;"BBQ Chicken";1
+849;"Classic Fries";1
+849;"Red Wine";2
+850;"Beer";1
+850;"Garlic Parmesan Fries";2
+850;"Lemonade";2
+850;"Margherita";1
+850;"White Wine";2
+851;"Classic Fries";1
+851;"Coca Cola";2
+851;"Margherita";2
+851;"Veggie Supreme";1
+851;"White Wine";3
+852;"BBQ Chicken";2
+852;"Cheese Fries";2
+852;"Margherita";1
+852;"Sweet Potato Fries";2
+853;"Bacon Burger";3
+853;"Double Trouble";2
+853;"Lemonade";3
+853;"Margherita";2
+853;"White Wine";2
+854;"BBQ Chicken";2
+854;"Classic Cheeseburger";2
+854;"Coca Cola";2
+854;"Iced Tea";2
+855;"BBQ Chicken";3
+855;"Beer";3
+855;"Iced Tea";2
+855;"Red Wine";1
+855;"Veggie Burger";2
+856;"Cheese Fries";1
+856;"Classic Fries";3
+856;"Iced Tea";1
+856;"Red Wine";1
+857;"Bacon Burger";2
+857;"Classic Cheeseburger";2
+857;"Coca Cola";1
+857;"Sweet Potato Fries";2
+857;"Veggie Burger";1
+858;"Bacon Burger";2
+858;"Lemonade";2
+858;"Milkshake";3
+858;"Red Wine";2
+858;"Whiskey Sour";3
+859;"Margherita";3
+860;"Classic Fries";1
+860;"Garlic Parmesan Fries";3
+860;"Iced Tea";3
+860;"Red Wine";1
+860;"Veggie Supreme";3
+861;"Garlic Parmesan Fries";2
+861;"Milkshake";3
+862;"BBQ Chicken";2
+862;"Classic Cheeseburger";1
+862;"Lemonade";3
+862;"Sweet Potato Fries";1
+863;"Classic Fries";3
+863;"Double Trouble";2
+863;"Lemonade";1
+863;"Red Wine";1
+863;"Veggie Supreme";3
+864;"Coca Cola";2
+864;"Margherita";1
+864;"Milkshake";3
+864;"Whiskey Sour";3
+865;"Bacon Burger";3
+865;"Pepperoni";1
+865;"Veggie Supreme";2
+867;"Double Trouble";2
+868;"Sweet Potato Fries";2
+868;"Veggie Burger";2
+868;"White Wine";1
+869;"Beer";2
+869;"Classic Fries";2
+869;"Pepperoni";2
+869;"Whiskey Sour";2
+870;"Cheese Fries";3
+870;"Double Trouble";3
+870;"Margherita";3
+870;"Red Wine";1
+870;"Whiskey Sour";1
+871;"Classic Cheeseburger";2
+871;"Coca Cola";3
+871;"Iced Tea";3
+871;"Sweet Potato Fries";1
+872;"BBQ Chicken";3
+872;"Beer";2
+872;"Coca Cola";2
+872;"Margherita";1
+872;"Veggie Supreme";2
+872;"Whiskey Sour";1
+873;"Beer";2
+873;"Veggie Burger";1
+874;"Margherita";2
+874;"Sweet Potato Fries";3
+874;"Whiskey Sour";3
+875;"BBQ Chicken";3
+875;"Coca Cola";1
+875;"Lemonade";2
+875;"Margherita";2
+875;"Pepperoni";1
+876;"Bacon Burger";3
+876;"Margherita";3
+876;"Milkshake";2
+877;"Garlic Parmesan Fries";2
+877;"Pepperoni";3
+877;"White Wine";3
+878;"Beer";2
+878;"Garlic Parmesan Fries";2
+878;"Margherita";1
+878;"Veggie Burger";3
+879;"Classic Fries";1
+879;"Double Trouble";2
+879;"Lemonade";3
+879;"Red Wine";3
+880;"Veggie Burger";1
+880;"Whiskey Sour";2
+881;"Margherita";3
+881;"Pepperoni";2
+882;"Beer";3
+882;"Veggie Burger";3
+883;"Cheese Fries";1
+883;"Classic Fries";2
+883;"Margherita";2
+884;"Beer";2
+884;"Classic Fries";1
+884;"Iced Tea";3
+884;"Red Wine";3
+884;"White Wine";3
+885;"Cheese Fries";2
+886;"Coca Cola";1
+886;"Pepperoni";1
+886;"Veggie Supreme";2
+887;"Classic Cheeseburger";2
+887;"Double Trouble";3
+887;"Margherita";1
+888;"Bacon Burger";2
+888;"Double Trouble";2
+888;"Lemonade";2
+888;"Veggie Burger";1
+888;"Whiskey Sour";3
+889;"BBQ Chicken";2
+889;"Cheese Fries";1
+889;"Classic Cheeseburger";1
+889;"Whiskey Sour";2
+889;"White Wine";3
+890;"Pepperoni";1
+891;"Bacon Burger";2
+891;"Iced Tea";2
+891;"Red Wine";3
+891;"White Wine";1
+892;"BBQ Chicken";3
+892;"Lemonade";3
+892;"Margherita";1
+892;"Veggie Supreme";3
+893;"Beer";3
+893;"Double Trouble";2
+893;"Veggie Supreme";3
+894;"Pepperoni";1
+894;"Red Wine";3
+894;"Veggie Burger";1
+895;"Classic Fries";2
+895;"Double Trouble";2
+895;"Lemonade";1
+895;"Margherita";2
+896;"Garlic Parmesan Fries";2
+896;"Pepperoni";3
+896;"Red Wine";3
+896;"Whiskey Sour";3
+897;"Beer";2
+897;"Classic Cheeseburger";2
+897;"Double Trouble";3
+898;"Cheese Fries";3
+898;"Classic Cheeseburger";2
+898;"Coca Cola";1
+898;"Veggie Burger";3
+898;"Veggie Supreme";2
+902;"Cheese Fries";3
+902;"Classic Cheeseburger";2
+902;"Double Trouble";2
+902;"Margherita";2
+902;"Veggie Supreme";3
+903;"White Wine";3
+904;"Garlic Parmesan Fries";3
+904;"Veggie Burger";3
+904;"Veggie Supreme";2
+905;"Lemonade";3
+906;"Beer";1
+906;"Iced Tea";3
+906;"Veggie Burger";2
+907;"Beer";1
+907;"Iced Tea";3
+907;"Margherita";1
+907;"Pepperoni";2
+907;"Red Wine";2
+908;"Bacon Burger";1
+908;"BBQ Chicken";3
+908;"Classic Cheeseburger";1
+908;"Lemonade";1
+908;"Sweet Potato Fries";1
+910;"Beer";1
+910;"Garlic Parmesan Fries";2
+910;"Lemonade";2
+910;"Margherita";2
+910;"Veggie Burger";2
+911;"Classic Cheeseburger";1
+911;"Coca Cola";3
+911;"Garlic Parmesan Fries";2
+911;"Iced Tea";3
+911;"Red Wine";1
+911;"Veggie Burger";3
+912;"Coca Cola";2
+912;"Garlic Parmesan Fries";2
+914;"Bacon Burger";2
+914;"Margherita";3
+914;"Pepperoni";1
+915;"BBQ Chicken";3
+915;"Milkshake";1
+915;"Red Wine";1
+916;"Milkshake";1
+916;"Pepperoni";1
+917;"Cheese Fries";2
+917;"Veggie Burger";1
+918;"Bacon Burger";1
+919;"Classic Cheeseburger";3
+919;"Whiskey Sour";2
+920;"Margherita";3
+920;"Whiskey Sour";2
+920;"White Wine";3
+921;"Cheese Fries";3
+921;"Garlic Parmesan Fries";2
+922;"Classic Cheeseburger";3
+922;"Coca Cola";2
+922;"Whiskey Sour";2
+923;"Cheese Fries";3
+923;"Classic Fries";3
+923;"Iced Tea";3
+923;"Pepperoni";1
+923;"Sweet Potato Fries";1
+924;"Coca Cola";3
+924;"Iced Tea";3
+924;"Pepperoni";1
+924;"Veggie Burger";2
+924;"Whiskey Sour";2
+925;"BBQ Chicken";2
+925;"Iced Tea";1
+925;"Pepperoni";1
+926;"BBQ Chicken";3
+926;"Classic Fries";2
+926;"Veggie Supreme";3
+927;"BBQ Chicken";2
+927;"Beer";1
+927;"Margherita";1
+928;"Beer";3
+928;"Double Trouble";3
+928;"Garlic Parmesan Fries";2
+928;"Whiskey Sour";3
+929;"BBQ Chicken";2
+929;"Iced Tea";3
+930;"Coca Cola";1
+930;"Sweet Potato Fries";1
+930;"White Wine";1
+931;"Bacon Burger";2
+931;"Margherita";1
+931;"Whiskey Sour";1
+932;"Cheese Fries";2
+932;"Classic Cheeseburger";3
+932;"Classic Fries";3
+932;"Coca Cola";1
+932;"Double Trouble";3
+933;"Bacon Burger";1
+933;"BBQ Chicken";2
+933;"Cheese Fries";3
+933;"Classic Fries";1
+933;"Coca Cola";1
+933;"Double Trouble";3
+934;"Beer";2
+934;"Margherita";2
+934;"Red Wine";3
+935;"Double Trouble";3
+935;"Iced Tea";3
+935;"Milkshake";2
+935;"Red Wine";3
+935;"White Wine";1
+936;"Bacon Burger";1
+936;"BBQ Chicken";1
+936;"Double Trouble";2
+936;"Milkshake";3
+937;"BBQ Chicken";1
+937;"Cheese Fries";1
+937;"Double Trouble";2
+937;"Garlic Parmesan Fries";3
+937;"Iced Tea";1
+937;"Red Wine";2
+938;"Cheese Fries";1
+938;"Pepperoni";1
+938;"Sweet Potato Fries";3
+938;"White Wine";2
+939;"Double Trouble";3
+939;"Sweet Potato Fries";3
+941;"BBQ Chicken";1
+941;"Cheese Fries";3
+941;"Double Trouble";1
+941;"Garlic Parmesan Fries";1
+941;"Milkshake";1
+943;"BBQ Chicken";2
+943;"Beer";1
+943;"Veggie Supreme";1
+943;"Whiskey Sour";2
+944;"Coca Cola";3
+944;"Garlic Parmesan Fries";3
+944;"Red Wine";3
+944;"Sweet Potato Fries";1
+945;"Garlic Parmesan Fries";3
+945;"Margherita";2
+946;"Coca Cola";1
+946;"Margherita";2
+946;"Whiskey Sour";1
+947;"Veggie Burger";1
+947;"White Wine";2
+948;"Classic Fries";2
+948;"Pepperoni";3
+948;"Whiskey Sour";3
+949;"Pepperoni";3
+950;"Beer";2
+950;"Iced Tea";1
+951;"Beer";1
+951;"Classic Cheeseburger";1
+951;"Coca Cola";2
+951;"Whiskey Sour";3
+952;"Cheese Fries";1
+952;"Classic Fries";1
+953;"Cheese Fries";1
+953;"Garlic Parmesan Fries";2
+953;"Veggie Burger";1
+953;"Veggie Supreme";3
+954;"BBQ Chicken";3
+954;"Classic Cheeseburger";3
+954;"Double Trouble";3
+954;"Milkshake";1
+955;"Beer";2
+955;"Cheese Fries";1
+955;"Classic Cheeseburger";1
+956;"Lemonade";3
+956;"Milkshake";2
+956;"Sweet Potato Fries";1
+957;"BBQ Chicken";1
+957;"Red Wine";2
+958;"Bacon Burger";2
+958;"BBQ Chicken";3
+958;"Cheese Fries";1
+958;"Sweet Potato Fries";2
+959;"Cheese Fries";3
+959;"Classic Cheeseburger";2
+959;"Double Trouble";3
+959;"Whiskey Sour";2
+959;"White Wine";3
+960;"Pepperoni";2
+961;"BBQ Chicken";2
+961;"Garlic Parmesan Fries";2
+961;"Pepperoni";1
+962;"Beer";2
+962;"Cheese Fries";3
+962;"Double Trouble";3
+962;"Red Wine";3
+963;"Double Trouble";2
+963;"Milkshake";2
+963;"Sweet Potato Fries";2
+963;"Veggie Burger";1
+964;"BBQ Chicken";1
+964;"Classic Fries";1
+964;"Veggie Burger";2
+965;"Beer";3
+965;"Classic Cheeseburger";2
+965;"Pepperoni";3
+965;"Veggie Supreme";2
+965;"Whiskey Sour";3
+965;"White Wine";1
+966;"BBQ Chicken";1
+966;"Double Trouble";3
+966;"Garlic Parmesan Fries";2
+966;"Red Wine";1
+967;"Bacon Burger";3
+967;"Iced Tea";3
+967;"White Wine";2
+968;"Whiskey Sour";1
+969;"Bacon Burger";1
+969;"Classic Cheeseburger";1
+969;"Classic Fries";1
+969;"Iced Tea";1
+969;"White Wine";2
+970;"BBQ Chicken";3
+970;"Coca Cola";1
+970;"Iced Tea";1
+971;"Beer";2
+971;"Classic Cheeseburger";2
+971;"White Wine";1
+972;"Classic Cheeseburger";2
+972;"Pepperoni";1
+973;"Garlic Parmesan Fries";1
+974;"Cheese Fries";1
+974;"Garlic Parmesan Fries";2
+974;"Milkshake";2
+975;"Bacon Burger";2
+975;"Coca Cola";1
+975;"Iced Tea";3
+975;"Milkshake";2
+977;"Cheese Fries";1
+977;"Lemonade";2
+977;"Pepperoni";2
+978;"Iced Tea";3
+978;"Milkshake";1
+978;"Sweet Potato Fries";2
+979;"Sweet Potato Fries";2
+979;"Whiskey Sour";3
+980;"Cheese Fries";2
+980;"Margherita";1
+981;"Double Trouble";3
+981;"Lemonade";2
+981;"Milkshake";1
+981;"Pepperoni";2
+981;"Sweet Potato Fries";1
+982;"Iced Tea";3
+982;"Pepperoni";1
+982;"Sweet Potato Fries";2
+983;"Bacon Burger";3
+983;"Garlic Parmesan Fries";3
+983;"Lemonade";1
+984;"Garlic Parmesan Fries";3
+984;"Margherita";3
+984;"Sweet Potato Fries";1
+985;"Pepperoni";2
+985;"Veggie Burger";1
+985;"Whiskey Sour";2
+986;"Bacon Burger";1
+986;"Margherita";3
+987;"Cheese Fries";3
+987;"Iced Tea";1
+987;"Red Wine";1
+988;"Coca Cola";3
+988;"Iced Tea";3
+988;"Margherita";2
+988;"Sweet Potato Fries";2
+989;"Classic Cheeseburger";1
+989;"Classic Fries";3
+989;"Red Wine";2
+990;"Classic Fries";2
+990;"Double Trouble";1
+990;"Lemonade";3
+990;"Pepperoni";2
+990;"Whiskey Sour";3
+990;"White Wine";1
+991;"Beer";3
+991;"Cheese Fries";3
+991;"Lemonade";3
+991;"Milkshake";3
+991;"Pepperoni";1
+992;"Coca Cola";2
+992;"Double Trouble";3
+992;"Garlic Parmesan Fries";2
+992;"Milkshake";3
+993;"BBQ Chicken";2
+993;"Veggie Burger";3
+993;"Whiskey Sour";3
+994;"Lemonade";1
+994;"Milkshake";1
+994;"White Wine";2
+995;"Beer";1
+995;"Classic Cheeseburger";1
+995;"Margherita";3
+996;"BBQ Chicken";1
+996;"Garlic Parmesan Fries";2
+996;"Margherita";2
+997;"Classic Cheeseburger";2
+997;"Sweet Potato Fries";2
+997;"Whiskey Sour";3
+998;"Cheese Fries";2
+998;"Classic Cheeseburger";2
+998;"Milkshake";2
+998;"Veggie Burger";3
+999;"Beer";1
+999;"Classic Fries";1
+999;"Garlic Parmesan Fries";1

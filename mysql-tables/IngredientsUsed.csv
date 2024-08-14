@@ -1,0 +1,53 @@
+"IngredientID";"DishName";"Quantity"
+1;"Margherita";4.0
+1;"Pepperoni";2.0
+1;"Veggie Supreme";1.0
+2;"BBQ Chicken";2.0
+2;"Margherita";5.0
+2;"Pepperoni";5.0
+2;"Veggie Supreme";5.0
+3;"Margherita";7.0
+4;"Pepperoni";2.0
+5;"Bacon Burger";6.0
+5;"BBQ Chicken";5.0
+6;"BBQ Chicken";7.0
+7;"BBQ Chicken";3.0
+7;"Veggie Supreme";2.0
+8;"Veggie Supreme";2.0
+9;"Veggie Supreme";4.0
+10;"Veggie Supreme";2.0
+11;"Bacon Burger";3.0
+11;"Classic Cheeseburger";5.0
+11;"Double Trouble";3.0
+12;"Bacon Burger";4.0
+12;"Classic Cheeseburger";1.0
+12;"Double Trouble";4.0
+13;"Classic Cheeseburger";7.0
+13;"Veggie Burger";2.0
+14;"Classic Cheeseburger";3.0
+14;"Veggie Burger";3.0
+15;"Classic Cheeseburger";4.0
+16;"Bacon Burger";4.0
+17;"Veggie Burger";4.0
+18;"Veggie Burger";6.0
+19;"Double Trouble";6.0
+20;"Cheese Fries";7.0
+20;"Classic Fries";2.0
+20;"Garlic Parmesan Fries";5.0
+21;"Cheese Fries";6.0
+22;"Garlic Parmesan Fries";5.0
+23;"Garlic Parmesan Fries";2.0
+24;"Sweet Potato Fries";4.0
+25;"Coca Cola";7.0
+26;"Iced Tea";7.0
+26;"Lemonade";1.0
+27;"Iced Tea";6.0
+28;"Milkshake";5.0
+29;"Milkshake";6.0
+30;"Milkshake";2.0
+31;"Milkshake";6.0
+32;"Beer";4.0
+33;"Red Wine";3.0
+34;"White Wine";4.0
+35;"Whiskey Sour";7.0
+36;"Whiskey Sour";2.0
