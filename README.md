@@ -12,7 +12,6 @@ This repository contains the design and implementation of a database for Crazy K
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
